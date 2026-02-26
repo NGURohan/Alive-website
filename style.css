@@ -284,6 +284,7 @@ body::before {
   letter-spacing: 0.16em;
   background: linear-gradient(110deg, #ffffff, #8fd5ff 45%, #ff98de);
   -webkit-background-clip: text;
+  background-clip: text;
   color: transparent;
   text-shadow: 0 0 34px rgba(87, 245, 255, 0.25);
 }
@@ -507,6 +508,76 @@ body::before {
 .game-card.hfw {
   --accent: #9ce5ff;
   --accent-soft: rgba(156, 229, 255, 0.34);
+}
+
+.game-card.botw {
+  --accent: #8df3a7;
+  --accent-soft: rgba(141, 243, 167, 0.35);
+}
+
+.game-card.w3 {
+  --accent: #ff6f5f;
+  --accent-soft: rgba(255, 111, 95, 0.35);
+}
+
+.game-card.skyr {
+  --accent: #d4e7ff;
+  --accent-soft: rgba(212, 231, 255, 0.35);
+}
+
+.game-card.ff7r {
+  --accent: #8ec5ff;
+  --accent-soft: rgba(142, 197, 255, 0.35);
+}
+
+.game-card.bg3 {
+  --accent: #f3cc79;
+  --accent-soft: rgba(243, 204, 121, 0.35);
+}
+
+.game-card.gt7 {
+  --accent: #78b7ff;
+  --accent-soft: rgba(120, 183, 255, 0.35);
+}
+
+.game-card.nfsh {
+  --accent: #ff8bd5;
+  --accent-soft: rgba(255, 139, 213, 0.35);
+}
+
+.game-card.f124 {
+  --accent: #ff6565;
+  --accent-soft: rgba(255, 101, 101, 0.35);
+}
+
+.game-card.mk8 {
+  --accent: #ffe26b;
+  --accent-soft: rgba(255, 226, 107, 0.35);
+}
+
+.game-card.mw3 {
+  --accent: #7cf0ff;
+  --accent-soft: rgba(124, 240, 255, 0.35);
+}
+
+.game-card.gowr {
+  --accent: #b6d0ff;
+  --accent-soft: rgba(182, 208, 255, 0.35);
+}
+
+.game-card.sm2 {
+  --accent: #ff6a6a;
+  --accent-soft: rgba(255, 106, 106, 0.35);
+}
+
+.game-card.acm {
+  --accent: #ffd8a0;
+  --accent-soft: rgba(255, 216, 160, 0.35);
+}
+
+.game-card.sf {
+  --accent: #a5b7ff;
+  --accent-soft: rgba(165, 183, 255, 0.35);
 }
 
 @media (max-width: 820px) {

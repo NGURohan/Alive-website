@@ -173,6 +173,70 @@ h1 {
   box-shadow: 0 0 16px rgba(87, 245, 255, 0.25);
 }
 
+.price-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 10px;
+  margin-bottom: 12px;
+}
+
+.price-item {
+  border: 1px solid rgba(255, 255, 255, 0.16);
+  border-radius: 10px;
+  background: rgba(8, 12, 24, 0.72);
+  padding: 10px 12px;
+}
+
+.price-item strong {
+  display: block;
+  font-size: 12px;
+  color: var(--soft);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+.price-item span {
+  display: block;
+  margin-top: 3px;
+  font-weight: 700;
+  color: var(--text);
+}
+
+.price-note {
+  color: var(--soft);
+  font-size: 12px;
+}
+
+.chart-shell {
+  border: 1px solid rgba(255, 255, 255, 0.16);
+  border-radius: 10px;
+  background: rgba(8, 12, 24, 0.72);
+  padding: 10px;
+}
+
+.chart-shell svg {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.chart-legend {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  margin-top: 10px;
+  font-size: 12px;
+  color: var(--soft);
+}
+
+.legend-dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  display: inline-block;
+  margin-right: 6px;
+}
+
 .facts-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
@@ -223,6 +287,20 @@ h1 {
 .elden-ring { --accent: #f4d98b; }
 .ghost-of-tsushima { --accent: #ff7b7b; }
 .horizon-forbidden-west { --accent: #9ce5ff; }
+.zelda-botw { --accent: #8df3a7; }
+.the-witcher-3 { --accent: #ff6f5f; }
+.skyrim { --accent: #d4e7ff; }
+.final-fantasy-vii-rebirth { --accent: #8ec5ff; }
+.baldurs-gate-3 { --accent: #f3cc79; }
+.gran-turismo-7 { --accent: #78b7ff; }
+.need-for-speed-heat { --accent: #ff8bd5; }
+.f1-24 { --accent: #ff6565; }
+.mario-kart-8-deluxe { --accent: #ffe26b; }
+.cod-mw3 { --accent: #7cf0ff; }
+.god-of-war-ragnarok { --accent: #b6d0ff; }
+.spider-man-2 { --accent: #ff6a6a; }
+.assassins-creed-mirage { --accent: #ffd8a0; }
+.starfield { --accent: #a5b7ff; }
 
 @media (max-width: 700px) {
   .page-shell {

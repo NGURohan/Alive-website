@@ -1,0 +1,5054 @@
+window.ALIVE_PRICE_DATA = {
+  "minecraft": {
+    "title": "Minecraft: Java & Bedrock Edition",
+    "updatedAt": "2026-02-26 16:37:03 UTC",
+    "freeExternal": false,
+    "stores": {
+      "steam": {
+        "available": false,
+        "free": false,
+        "current": null,
+        "normal": null,
+        "currency": "USD",
+        "source": "Steam"
+      },
+      "epic": {
+        "available": false,
+        "free": false,
+        "current": null,
+        "normal": null,
+        "currency": "USD",
+        "source": "Epic Games Store"
+      }
+    },
+    "historyPoints": [],
+    "history": [
+      {
+        "month": "2025-03",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2025-04",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2025-05",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2025-06",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2025-07",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2025-08",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2025-09",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2025-10",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2025-11",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2025-12",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2026-01",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2026-02",
+        "steam": null,
+        "epic": null
+      }
+    ],
+    "dataSource": "isthereanydeal-site-history",
+    "match": {
+      "gid": "018d937f-60c0-7045-90f3-17491066a29f",
+      "slug": "minecraft-java-and-bedrock-edition",
+      "title": "Minecraft: Java & Bedrock Edition",
+      "via": "slug"
+    }
+  },
+  "rdr2": {
+    "title": "Red Dead Redemption 2",
+    "updatedAt": "2026-02-26 16:37:03 UTC",
+    "freeExternal": false,
+    "stores": {
+      "steam": {
+        "available": true,
+        "free": false,
+        "current": 59.99,
+        "normal": 59.99,
+        "currency": "USD",
+        "source": "Steam"
+      },
+      "epic": {
+        "available": true,
+        "free": false,
+        "current": 59.99,
+        "normal": 59.99,
+        "currency": "USD",
+        "source": "Epic Games Store"
+      }
+    },
+    "historyPoints": [
+      {
+        "at": "2025-03-13T10:56:45.000Z",
+        "steam": 59.99,
+        "epic": null
+      },
+      {
+        "at": "2025-03-19T19:16:18.000Z",
+        "steam": 14.99,
+        "epic": null
+      },
+      {
+        "at": "2025-04-01T01:36:12.000Z",
+        "steam": 59.99,
+        "epic": null
+      },
+      {
+        "at": "2025-04-17T14:01:18.000Z",
+        "steam": 14.99,
+        "epic": null
+      },
+      {
+        "at": "2025-05-09T10:21:08.000Z",
+        "steam": 14.99,
+        "epic": 59.99
+      },
+      {
+        "at": "2025-05-15T15:59:12.000Z",
+        "steam": 59.99,
+        "epic": 59.99
+      },
+      {
+        "at": "2025-06-02T17:46:22.000Z",
+        "steam": 14.99,
+        "epic": 59.99
+      },
+      {
+        "at": "2025-06-03T03:25:36.000Z",
+        "steam": 14.99,
+        "epic": 14.99
+      },
+      {
+        "at": "2025-06-03T16:42:48.000Z",
+        "steam": 14.99,
+        "epic": 0
+      },
+      {
+        "at": "2025-06-11T19:05:28.000Z",
+        "steam": 14.99,
+        "epic": 14.99
+      },
+      {
+        "at": "2025-06-17T00:05:36.000Z",
+        "steam": 14.99,
+        "epic": 59.99
+      },
+      {
+        "at": "2025-06-22T22:37:23.000Z",
+        "steam": 14.99,
+        "epic": 0
+      },
+      {
+        "at": "2025-06-26T19:25:23.000Z",
+        "steam": 59.99,
+        "epic": 0
+      },
+      {
+        "at": "2025-07-14T10:15:59.000Z",
+        "steam": 59.99,
+        "epic": 59.99
+      },
+      {
+        "at": "2025-07-23T21:21:10.000Z",
+        "steam": 14.99,
+        "epic": 59.99
+      },
+      {
+        "at": "2025-07-31T00:41:50.000Z",
+        "steam": 14.99,
+        "epic": 14.99
+      },
+      {
+        "at": "2025-08-25T08:00:55.000Z",
+        "steam": 59.99,
+        "epic": 14.99
+      },
+      {
+        "at": "2025-09-04T11:27:57.000Z",
+        "steam": 59.99,
+        "epic": 59.99
+      },
+      {
+        "at": "2025-09-08T17:11:25.000Z",
+        "steam": 14.99,
+        "epic": 59.99
+      },
+      {
+        "at": "2025-09-16T10:31:19.000Z",
+        "steam": 14.99,
+        "epic": 14.99
+      },
+      {
+        "at": "2025-09-29T20:16:33.000Z",
+        "steam": 59.99,
+        "epic": 14.99
+      },
+      {
+        "at": "2025-10-06T17:36:06.000Z",
+        "steam": 14.99,
+        "epic": 14.99
+      },
+      {
+        "at": "2025-10-08T00:46:36.000Z",
+        "steam": 59.99,
+        "epic": 14.99
+      },
+      {
+        "at": "2025-10-16T09:51:13.000Z",
+        "steam": 59.99,
+        "epic": 59.99
+      },
+      {
+        "at": "2025-10-20T15:29:15.000Z",
+        "steam": 14.99,
+        "epic": 59.99
+      },
+      {
+        "at": "2025-11-03T02:40:49.000Z",
+        "steam": 14.99,
+        "epic": 14.99
+      },
+      {
+        "at": "2025-11-04T00:46:18.000Z",
+        "steam": 14.99,
+        "epic": 59.99
+      },
+      {
+        "at": "2025-11-06T18:21:57.000Z",
+        "steam": 14.99,
+        "epic": 0
+      },
+      {
+        "at": "2025-11-20T18:14:56.000Z",
+        "steam": 59.99,
+        "epic": 0
+      },
+      {
+        "at": "2025-12-04T18:12:45.000Z",
+        "steam": 14.99,
+        "epic": 0
+      },
+      {
+        "at": "2025-12-10T14:15:56.000Z",
+        "steam": 14.99,
+        "epic": 59.99
+      },
+      {
+        "at": "2025-12-19T11:07:50.000Z",
+        "steam": 59.99,
+        "epic": 59.99
+      },
+      {
+        "at": "2026-01-05T18:06:59.000Z",
+        "steam": 14.99,
+        "epic": 59.99
+      },
+      {
+        "at": "2026-01-08T01:06:27.000Z",
+        "steam": 14.99,
+        "epic": 14.99
+      },
+      {
+        "at": "2026-01-22T18:22:36.000Z",
+        "steam": 59.99,
+        "epic": 14.99
+      },
+      {
+        "at": "2026-02-03T11:56:17.000Z",
+        "steam": 14.99,
+        "epic": 14.99
+      },
+      {
+        "at": "2026-02-05T18:24:38.000Z",
+        "steam": 14.99,
+        "epic": 59.99
+      },
+      {
+        "at": "2026-02-23T10:56:01.000Z",
+        "steam": 14.99,
+        "epic": 14.99
+      },
+      {
+        "at": "2026-02-26T16:37:03.836Z",
+        "steam": 59.99,
+        "epic": 59.99
+      }
+    ],
+    "history": [
+      {
+        "month": "2025-03",
+        "steam": 14.99,
+        "epic": null
+      },
+      {
+        "month": "2025-04",
+        "steam": 14.99,
+        "epic": null
+      },
+      {
+        "month": "2025-05",
+        "steam": 59.99,
+        "epic": 59.99
+      },
+      {
+        "month": "2025-06",
+        "steam": 59.99,
+        "epic": 0
+      },
+      {
+        "month": "2025-07",
+        "steam": 14.99,
+        "epic": 14.99
+      },
+      {
+        "month": "2025-08",
+        "steam": 59.99,
+        "epic": 14.99
+      },
+      {
+        "month": "2025-09",
+        "steam": 59.99,
+        "epic": 14.99
+      },
+      {
+        "month": "2025-10",
+        "steam": 14.99,
+        "epic": 59.99
+      },
+      {
+        "month": "2025-11",
+        "steam": 59.99,
+        "epic": 0
+      },
+      {
+        "month": "2025-12",
+        "steam": 59.99,
+        "epic": 59.99
+      },
+      {
+        "month": "2026-01",
+        "steam": 59.99,
+        "epic": 14.99
+      },
+      {
+        "month": "2026-02",
+        "steam": 59.99,
+        "epic": 59.99
+      }
+    ],
+    "dataSource": "isthereanydeal-site-history",
+    "match": {
+      "gid": "018d937f-3a3b-7210-bd2d-0d1dfb1d84c0",
+      "slug": "red-dead-redemption-2",
+      "title": "Red Dead Redemption 2",
+      "via": "slug"
+    }
+  },
+  "god-of-war": {
+    "title": "God of War",
+    "updatedAt": "2026-02-26 16:37:03 UTC",
+    "freeExternal": false,
+    "stores": {
+      "steam": {
+        "available": true,
+        "free": false,
+        "current": 49.99,
+        "normal": 49.99,
+        "currency": "USD",
+        "source": "Steam"
+      },
+      "epic": {
+        "available": true,
+        "free": false,
+        "current": 49.99,
+        "normal": 49.99,
+        "currency": "USD",
+        "source": "Epic Games Store"
+      }
+    },
+    "historyPoints": [
+      {
+        "at": "2025-02-26T00:00:00.000Z",
+        "steam": null,
+        "epic": 49.99
+      },
+      {
+        "at": "2025-03-09T06:11:16.000Z",
+        "steam": null,
+        "epic": 0
+      },
+      {
+        "at": "2025-03-13T10:56:44.000Z",
+        "steam": 49.99,
+        "epic": 0
+      },
+      {
+        "at": "2025-03-20T00:35:50.000Z",
+        "steam": 19.99,
+        "epic": 0
+      },
+      {
+        "at": "2025-03-21T00:18:37.000Z",
+        "steam": 19.99,
+        "epic": 49.99
+      },
+      {
+        "at": "2025-04-08T23:15:51.000Z",
+        "steam": 19.99,
+        "epic": 19.99
+      },
+      {
+        "at": "2025-05-06T15:02:04.000Z",
+        "steam": 19.99,
+        "epic": 49.99
+      },
+      {
+        "at": "2025-05-15T15:49:01.000Z",
+        "steam": 19.99,
+        "epic": 19.99
+      },
+      {
+        "at": "2025-05-26T03:27:34.000Z",
+        "steam": 19.99,
+        "epic": 0
+      },
+      {
+        "at": "2025-05-26T04:12:39.000Z",
+        "steam": 19.99,
+        "epic": 19.99
+      },
+      {
+        "at": "2025-06-26T20:37:21.000Z",
+        "steam": 49.99,
+        "epic": 19.99
+      },
+      {
+        "at": "2025-07-10T17:46:22.000Z",
+        "steam": 19.99,
+        "epic": 19.99
+      },
+      {
+        "at": "2025-07-11T01:46:14.000Z",
+        "steam": 19.99,
+        "epic": 49.99
+      },
+      {
+        "at": "2025-07-18T14:30:11.000Z",
+        "steam": 19.99,
+        "epic": 19.99
+      },
+      {
+        "at": "2025-09-04T11:20:38.000Z",
+        "steam": 19.99,
+        "epic": 49.99
+      },
+      {
+        "at": "2025-09-17T21:51:34.000Z",
+        "steam": 19.99,
+        "epic": 19.99
+      },
+      {
+        "at": "2025-10-01T01:26:23.000Z",
+        "steam": 49.99,
+        "epic": 19.99
+      },
+      {
+        "at": "2025-10-06T17:55:46.000Z",
+        "steam": 19.99,
+        "epic": 19.99
+      },
+      {
+        "at": "2025-10-07T11:16:18.000Z",
+        "steam": 19.99,
+        "epic": 49.99
+      },
+      {
+        "at": "2025-11-01T22:48:48.000Z",
+        "steam": 19.99,
+        "epic": 0
+      },
+      {
+        "at": "2025-11-02T00:53:57.000Z",
+        "steam": 19.99,
+        "epic": 49.99
+      },
+      {
+        "at": "2025-11-10T19:06:22.000Z",
+        "steam": 19.99,
+        "epic": 19.99
+      },
+      {
+        "at": "2025-11-20T18:14:56.000Z",
+        "steam": 49.99,
+        "epic": 19.99
+      },
+      {
+        "at": "2025-12-02T18:17:47.000Z",
+        "steam": 19.99,
+        "epic": 19.99
+      },
+      {
+        "at": "2025-12-04T10:57:01.000Z",
+        "steam": 19.99,
+        "epic": 49.99
+      },
+      {
+        "at": "2025-12-18T20:11:47.000Z",
+        "steam": 49.99,
+        "epic": 49.99
+      },
+      {
+        "at": "2026-01-05T18:56:07.000Z",
+        "steam": 19.99,
+        "epic": 49.99
+      },
+      {
+        "at": "2026-01-06T03:35:25.000Z",
+        "steam": 19.99,
+        "epic": 19.99
+      },
+      {
+        "at": "2026-02-09T12:16:18.000Z",
+        "steam": 19.99,
+        "epic": 49.99
+      },
+      {
+        "at": "2026-02-09T18:19:48.000Z",
+        "steam": 49.99,
+        "epic": 49.99
+      },
+      {
+        "at": "2026-02-23T16:34:12.000Z",
+        "steam": 49.99,
+        "epic": 19.99
+      },
+      {
+        "at": "2026-02-23T18:21:49.000Z",
+        "steam": 19.99,
+        "epic": 19.99
+      },
+      {
+        "at": "2026-02-26T16:37:03.836Z",
+        "steam": 49.99,
+        "epic": 49.99
+      }
+    ],
+    "history": [
+      {
+        "month": "2025-03",
+        "steam": 19.99,
+        "epic": 49.99
+      },
+      {
+        "month": "2025-04",
+        "steam": 19.99,
+        "epic": 19.99
+      },
+      {
+        "month": "2025-05",
+        "steam": 19.99,
+        "epic": 19.99
+      },
+      {
+        "month": "2025-06",
+        "steam": 49.99,
+        "epic": 19.99
+      },
+      {
+        "month": "2025-07",
+        "steam": 19.99,
+        "epic": 19.99
+      },
+      {
+        "month": "2025-08",
+        "steam": 19.99,
+        "epic": 19.99
+      },
+      {
+        "month": "2025-09",
+        "steam": 19.99,
+        "epic": 19.99
+      },
+      {
+        "month": "2025-10",
+        "steam": 19.99,
+        "epic": 49.99
+      },
+      {
+        "month": "2025-11",
+        "steam": 49.99,
+        "epic": 19.99
+      },
+      {
+        "month": "2025-12",
+        "steam": 49.99,
+        "epic": 49.99
+      },
+      {
+        "month": "2026-01",
+        "steam": 19.99,
+        "epic": 19.99
+      },
+      {
+        "month": "2026-02",
+        "steam": 49.99,
+        "epic": 49.99
+      }
+    ],
+    "dataSource": "isthereanydeal-site-history",
+    "match": {
+      "gid": "018d937f-4964-7357-a557-f04dac608915",
+      "slug": "god-of-war",
+      "title": "God of War",
+      "via": "slug"
+    }
+  },
+  "valorant": {
+    "title": "Valorant",
+    "updatedAt": "2026-02-26 16:37:03 UTC",
+    "freeExternal": true,
+    "stores": {
+      "steam": {
+        "available": false,
+        "free": false,
+        "current": null,
+        "normal": null,
+        "currency": "USD",
+        "source": "Steam"
+      },
+      "epic": {
+        "available": true,
+        "free": true,
+        "current": 0,
+        "normal": 0,
+        "currency": "USD",
+        "source": "Epic Games Store"
+      }
+    },
+    "historyPoints": [
+      {
+        "at": "2026-02-26T16:37:03.836Z",
+        "steam": null,
+        "epic": 0
+      }
+    ],
+    "history": [
+      {
+        "month": "2025-03",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2025-04",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2025-05",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2025-06",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2025-07",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2025-08",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2025-09",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2025-10",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2025-11",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2025-12",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2026-01",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2026-02",
+        "steam": null,
+        "epic": 0
+      }
+    ],
+    "dataSource": "isthereanydeal-site-history",
+    "match": {
+      "gid": "018d937f-428f-7334-a649-60fe47a5ca8c",
+      "slug": "valorant",
+      "title": "Valorant",
+      "via": "slug"
+    }
+  },
+  "where-winds-meet": {
+    "title": "Where Winds Meet",
+    "updatedAt": "2026-02-26 16:37:03 UTC",
+    "freeExternal": false,
+    "stores": {
+      "steam": {
+        "available": true,
+        "free": true,
+        "current": 0,
+        "normal": 0,
+        "currency": "USD",
+        "source": "Steam"
+      },
+      "epic": {
+        "available": true,
+        "free": true,
+        "current": 0,
+        "normal": 0,
+        "currency": "USD",
+        "source": "Epic Games Store"
+      }
+    },
+    "historyPoints": [
+      {
+        "at": "2026-02-26T16:37:03.836Z",
+        "steam": 0,
+        "epic": 0
+      }
+    ],
+    "history": [
+      {
+        "month": "2025-03",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2025-04",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2025-05",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2025-06",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2025-07",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2025-08",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2025-09",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2025-10",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2025-11",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2025-12",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2026-01",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2026-02",
+        "steam": 0,
+        "epic": 0
+      }
+    ],
+    "dataSource": "isthereanydeal-site-history",
+    "match": {
+      "gid": "0195e9fb-de2b-71a2-b356-fdd11a4d956b",
+      "slug": "where-winds-meet",
+      "title": "Where Winds Meet",
+      "via": "slug"
+    }
+  },
+  "once-human": {
+    "title": "Once Human",
+    "updatedAt": "2026-02-26 16:37:03 UTC",
+    "freeExternal": false,
+    "stores": {
+      "steam": {
+        "available": true,
+        "free": true,
+        "current": 0,
+        "normal": 0,
+        "currency": "USD",
+        "source": "Steam"
+      },
+      "epic": {
+        "available": true,
+        "free": true,
+        "current": 0,
+        "normal": 0,
+        "currency": "USD",
+        "source": "Epic Games Store"
+      }
+    },
+    "historyPoints": [
+      {
+        "at": "2026-02-26T16:37:03.836Z",
+        "steam": 0,
+        "epic": 0
+      }
+    ],
+    "history": [
+      {
+        "month": "2025-03",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2025-04",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2025-05",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2025-06",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2025-07",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2025-08",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2025-09",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2025-10",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2025-11",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2025-12",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2026-01",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2026-02",
+        "steam": 0,
+        "epic": 0
+      }
+    ],
+    "dataSource": "isthereanydeal-site-history",
+    "match": {
+      "gid": "018d937f-6f0d-72b5-b774-b8daa809805d",
+      "slug": "once-human",
+      "title": "Once Human",
+      "via": "slug"
+    }
+  },
+  "no-mans-sky": {
+    "title": "No Man's Sky",
+    "updatedAt": "2026-02-26 16:37:03 UTC",
+    "freeExternal": false,
+    "stores": {
+      "steam": {
+        "available": true,
+        "free": false,
+        "current": 59.99,
+        "normal": 59.99,
+        "currency": "USD",
+        "source": "Steam"
+      },
+      "epic": {
+        "available": false,
+        "free": false,
+        "current": null,
+        "normal": null,
+        "currency": "USD",
+        "source": "Epic Games Store"
+      }
+    },
+    "historyPoints": [
+      {
+        "at": "2025-03-13T11:15:45.000Z",
+        "steam": 59.99,
+        "epic": null
+      },
+      {
+        "at": "2025-03-19T14:04:42.000Z",
+        "steam": 23.99,
+        "epic": null
+      },
+      {
+        "at": "2025-03-24T16:37:21.000Z",
+        "steam": 59.99,
+        "epic": null
+      },
+      {
+        "at": "2025-04-04T09:22:53.000Z",
+        "steam": 23.99,
+        "epic": null
+      },
+      {
+        "at": "2025-05-20T13:03:46.000Z",
+        "steam": 59.99,
+        "epic": null
+      },
+      {
+        "at": "2025-06-09T09:26:15.000Z",
+        "steam": 23.99,
+        "epic": null
+      },
+      {
+        "at": "2025-06-26T11:04:44.000Z",
+        "steam": 59.99,
+        "epic": null
+      },
+      {
+        "at": "2025-07-10T15:06:30.000Z",
+        "steam": 23.99,
+        "epic": null
+      },
+      {
+        "at": "2025-07-13T17:10:48.000Z",
+        "steam": 59.99,
+        "epic": null
+      },
+      {
+        "at": "2025-07-25T16:37:31.000Z",
+        "steam": 23.99,
+        "epic": null
+      },
+      {
+        "at": "2025-08-25T09:31:00.000Z",
+        "steam": 59.99,
+        "epic": null
+      },
+      {
+        "at": "2025-09-04T11:13:13.000Z",
+        "steam": 23.99,
+        "epic": null
+      },
+      {
+        "at": "2025-09-29T19:27:08.000Z",
+        "steam": 59.99,
+        "epic": null
+      },
+      {
+        "at": "2025-10-05T04:36:22.000Z",
+        "steam": 23.99,
+        "epic": null
+      },
+      {
+        "at": "2025-10-19T01:06:04.000Z",
+        "steam": 59.99,
+        "epic": null
+      },
+      {
+        "at": "2025-11-01T21:06:38.000Z",
+        "steam": 23.99,
+        "epic": null
+      },
+      {
+        "at": "2025-12-03T08:23:18.000Z",
+        "steam": 59.99,
+        "epic": null
+      },
+      {
+        "at": "2025-12-15T08:15:24.000Z",
+        "steam": 23.99,
+        "epic": null
+      },
+      {
+        "at": "2025-12-18T19:20:47.000Z",
+        "steam": 59.99,
+        "epic": null
+      },
+      {
+        "at": "2025-12-26T03:05:24.000Z",
+        "steam": 23.99,
+        "epic": null
+      },
+      {
+        "at": "2026-02-06T15:10:28.000Z",
+        "steam": 59.99,
+        "epic": null
+      },
+      {
+        "at": "2026-02-23T18:11:43.000Z",
+        "steam": 23.99,
+        "epic": null
+      },
+      {
+        "at": "2026-02-26T16:37:03.836Z",
+        "steam": 59.99,
+        "epic": null
+      }
+    ],
+    "history": [
+      {
+        "month": "2025-03",
+        "steam": 59.99,
+        "epic": null
+      },
+      {
+        "month": "2025-04",
+        "steam": 23.99,
+        "epic": null
+      },
+      {
+        "month": "2025-05",
+        "steam": 59.99,
+        "epic": null
+      },
+      {
+        "month": "2025-06",
+        "steam": 59.99,
+        "epic": null
+      },
+      {
+        "month": "2025-07",
+        "steam": 23.99,
+        "epic": null
+      },
+      {
+        "month": "2025-08",
+        "steam": 59.99,
+        "epic": null
+      },
+      {
+        "month": "2025-09",
+        "steam": 59.99,
+        "epic": null
+      },
+      {
+        "month": "2025-10",
+        "steam": 59.99,
+        "epic": null
+      },
+      {
+        "month": "2025-11",
+        "steam": 23.99,
+        "epic": null
+      },
+      {
+        "month": "2025-12",
+        "steam": 23.99,
+        "epic": null
+      },
+      {
+        "month": "2026-01",
+        "steam": 23.99,
+        "epic": null
+      },
+      {
+        "month": "2026-02",
+        "steam": 59.99,
+        "epic": null
+      }
+    ],
+    "dataSource": "isthereanydeal-site-history",
+    "match": {
+      "gid": "018d937f-15f9-7056-8edf-2e8fa4b8f357",
+      "slug": "no-mans-sky",
+      "title": "No Man's Sky",
+      "via": "slug"
+    }
+  },
+  "asphalt-legends": {
+    "title": "Asphalt Legends",
+    "updatedAt": "2026-02-26 16:37:03 UTC",
+    "freeExternal": false,
+    "stores": {
+      "steam": {
+        "available": true,
+        "free": true,
+        "current": 0,
+        "normal": 0,
+        "currency": "USD",
+        "source": "Steam"
+      },
+      "epic": {
+        "available": true,
+        "free": true,
+        "current": 0,
+        "normal": 0,
+        "currency": "USD",
+        "source": "Epic Games Store"
+      }
+    },
+    "historyPoints": [
+      {
+        "at": "2026-02-26T16:37:03.836Z",
+        "steam": 0,
+        "epic": 0
+      }
+    ],
+    "history": [
+      {
+        "month": "2025-03",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2025-04",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2025-05",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2025-06",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2025-07",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2025-08",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2025-09",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2025-10",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2025-11",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2025-12",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2026-01",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2026-02",
+        "steam": 0,
+        "epic": 0
+      }
+    ],
+    "dataSource": "isthereanydeal-site-history",
+    "match": {
+      "gid": "01983bb9-e66b-7036-ad04-c4b94b5767b1",
+      "slug": "asphalt-legends",
+      "title": "Asphalt Legends",
+      "via": "slug"
+    }
+  },
+  "cs2": {
+    "title": "Counter-Strike 2",
+    "updatedAt": "2026-02-26 16:37:03 UTC",
+    "freeExternal": false,
+    "stores": {
+      "steam": {
+        "available": true,
+        "free": true,
+        "current": 0,
+        "normal": 0,
+        "currency": "USD",
+        "source": "Steam"
+      },
+      "epic": {
+        "available": false,
+        "free": false,
+        "current": null,
+        "normal": null,
+        "currency": "USD",
+        "source": "Epic Games Store"
+      }
+    },
+    "historyPoints": [
+      {
+        "at": "2026-02-26T16:37:03.836Z",
+        "steam": 0,
+        "epic": null
+      }
+    ],
+    "history": [
+      {
+        "month": "2025-03",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2025-04",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2025-05",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2025-06",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2025-07",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2025-08",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2025-09",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2025-10",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2025-11",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2025-12",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2026-01",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2026-02",
+        "steam": 0,
+        "epic": null
+      }
+    ],
+    "dataSource": "isthereanydeal-site-history",
+    "match": {
+      "gid": "018d937f-7851-7004-b780-3f657a301f9a",
+      "slug": "counter-strike-2",
+      "title": "Counter-Strike 2",
+      "via": "slug"
+    }
+  },
+  "forza-horizon-5": {
+    "title": "Forza Horizon 5",
+    "updatedAt": "2026-02-26 16:37:03 UTC",
+    "freeExternal": false,
+    "stores": {
+      "steam": {
+        "available": true,
+        "free": false,
+        "current": 59.99,
+        "normal": 59.99,
+        "currency": "USD",
+        "source": "Steam"
+      },
+      "epic": {
+        "available": false,
+        "free": false,
+        "current": null,
+        "normal": null,
+        "currency": "USD",
+        "source": "Epic Games Store"
+      }
+    },
+    "historyPoints": [
+      {
+        "at": "2025-03-04T01:32:01.000Z",
+        "steam": 59.99,
+        "epic": null
+      },
+      {
+        "at": "2025-03-11T10:42:31.000Z",
+        "steam": 29.99,
+        "epic": null
+      },
+      {
+        "at": "2025-04-18T00:12:05.000Z",
+        "steam": 59.99,
+        "epic": null
+      },
+      {
+        "at": "2025-04-24T17:16:53.000Z",
+        "steam": 29.99,
+        "epic": null
+      },
+      {
+        "at": "2025-05-08T17:20:36.000Z",
+        "steam": 59.99,
+        "epic": null
+      },
+      {
+        "at": "2025-06-10T00:26:02.000Z",
+        "steam": 29.99,
+        "epic": null
+      },
+      {
+        "at": "2025-06-24T10:59:28.000Z",
+        "steam": 59.99,
+        "epic": null
+      },
+      {
+        "at": "2025-06-26T22:38:51.000Z",
+        "steam": 29.99,
+        "epic": null
+      },
+      {
+        "at": "2025-08-19T07:59:16.000Z",
+        "steam": 59.99,
+        "epic": null
+      },
+      {
+        "at": "2025-08-21T17:18:58.000Z",
+        "steam": 29.99,
+        "epic": null
+      },
+      {
+        "at": "2025-09-23T00:46:36.000Z",
+        "steam": 59.99,
+        "epic": null
+      },
+      {
+        "at": "2025-09-30T10:20:20.000Z",
+        "steam": 29.99,
+        "epic": null
+      },
+      {
+        "at": "2025-11-19T21:31:17.000Z",
+        "steam": 59.99,
+        "epic": null
+      },
+      {
+        "at": "2025-11-21T18:16:39.000Z",
+        "steam": 29.99,
+        "epic": null
+      },
+      {
+        "at": "2025-12-11T02:05:12.000Z",
+        "steam": 59.99,
+        "epic": null
+      },
+      {
+        "at": "2025-12-18T20:12:17.000Z",
+        "steam": 29.99,
+        "epic": null
+      },
+      {
+        "at": "2026-01-21T00:30:49.000Z",
+        "steam": 59.99,
+        "epic": null
+      },
+      {
+        "at": "2026-02-02T11:46:06.000Z",
+        "steam": 29.99,
+        "epic": null
+      },
+      {
+        "at": "2026-02-26T16:37:03.836Z",
+        "steam": 59.99,
+        "epic": null
+      }
+    ],
+    "history": [
+      {
+        "month": "2025-03",
+        "steam": 29.99,
+        "epic": null
+      },
+      {
+        "month": "2025-04",
+        "steam": 29.99,
+        "epic": null
+      },
+      {
+        "month": "2025-05",
+        "steam": 59.99,
+        "epic": null
+      },
+      {
+        "month": "2025-06",
+        "steam": 29.99,
+        "epic": null
+      },
+      {
+        "month": "2025-07",
+        "steam": 29.99,
+        "epic": null
+      },
+      {
+        "month": "2025-08",
+        "steam": 29.99,
+        "epic": null
+      },
+      {
+        "month": "2025-09",
+        "steam": 29.99,
+        "epic": null
+      },
+      {
+        "month": "2025-10",
+        "steam": 29.99,
+        "epic": null
+      },
+      {
+        "month": "2025-11",
+        "steam": 29.99,
+        "epic": null
+      },
+      {
+        "month": "2025-12",
+        "steam": 29.99,
+        "epic": null
+      },
+      {
+        "month": "2026-01",
+        "steam": 59.99,
+        "epic": null
+      },
+      {
+        "month": "2026-02",
+        "steam": 59.99,
+        "epic": null
+      }
+    ],
+    "dataSource": "isthereanydeal-site-history",
+    "match": {
+      "gid": "018d937f-51cf-71a2-8359-bde443177de4",
+      "slug": "forza-horizon-5",
+      "title": "Forza Horizon 5",
+      "via": "slug"
+    }
+  },
+  "gta-5": {
+    "title": "Grand Theft Auto V",
+    "updatedAt": "2026-02-26 16:37:03 UTC",
+    "freeExternal": false,
+    "stores": {
+      "steam": {
+        "available": true,
+        "free": false,
+        "current": 59.99,
+        "normal": 59.99,
+        "currency": "USD",
+        "source": "Steam"
+      },
+      "epic": {
+        "available": true,
+        "free": false,
+        "current": 14.99,
+        "normal": 29.99,
+        "currency": "USD",
+        "source": "Epic Games Store"
+      }
+    },
+    "historyPoints": [
+      {
+        "at": "2025-02-26T00:00:00.000Z",
+        "steam": 0,
+        "epic": null
+      },
+      {
+        "at": "2025-03-04T12:33:24.000Z",
+        "steam": 59.99,
+        "epic": null
+      },
+      {
+        "at": "2026-02-26T16:37:03.836Z",
+        "steam": 0,
+        "epic": 0
+      }
+    ],
+    "history": [
+      {
+        "month": "2025-03",
+        "steam": 59.99,
+        "epic": null
+      },
+      {
+        "month": "2025-04",
+        "steam": 59.99,
+        "epic": null
+      },
+      {
+        "month": "2025-05",
+        "steam": 59.99,
+        "epic": null
+      },
+      {
+        "month": "2025-06",
+        "steam": 59.99,
+        "epic": null
+      },
+      {
+        "month": "2025-07",
+        "steam": 59.99,
+        "epic": null
+      },
+      {
+        "month": "2025-08",
+        "steam": 59.99,
+        "epic": null
+      },
+      {
+        "month": "2025-09",
+        "steam": 59.99,
+        "epic": null
+      },
+      {
+        "month": "2025-10",
+        "steam": 59.99,
+        "epic": null
+      },
+      {
+        "month": "2025-11",
+        "steam": 59.99,
+        "epic": null
+      },
+      {
+        "month": "2025-12",
+        "steam": 59.99,
+        "epic": null
+      },
+      {
+        "month": "2026-01",
+        "steam": 59.99,
+        "epic": null
+      },
+      {
+        "month": "2026-02",
+        "steam": 0,
+        "epic": 0
+      }
+    ],
+    "dataSource": "isthereanydeal-site-history",
+    "match": {
+      "gid": "018d937f-03e2-7281-a961-037a2d279a92",
+      "slug": "grand-theft-auto-v",
+      "title": "Grand Theft Auto V",
+      "via": "slug"
+    }
+  },
+  "cyberpunk-2077": {
+    "title": "Cyberpunk 2077",
+    "updatedAt": "2026-02-26 16:37:03 UTC",
+    "freeExternal": false,
+    "stores": {
+      "steam": {
+        "available": true,
+        "free": false,
+        "current": 59.99,
+        "normal": 59.99,
+        "currency": "USD",
+        "source": "Steam"
+      },
+      "epic": {
+        "available": true,
+        "free": false,
+        "current": 59.99,
+        "normal": 59.99,
+        "currency": "USD",
+        "source": "Epic Games Store"
+      }
+    },
+    "historyPoints": [
+      {
+        "at": "2025-02-26T00:00:00.000Z",
+        "steam": 59.99,
+        "epic": null
+      },
+      {
+        "at": "2025-03-19T14:04:57.000Z",
+        "steam": 59.99,
+        "epic": 59.99
+      },
+      {
+        "at": "2025-03-26T16:08:41.000Z",
+        "steam": 23.99,
+        "epic": 59.99
+      },
+      {
+        "at": "2025-04-03T07:32:30.000Z",
+        "steam": 23.99,
+        "epic": 23.99
+      },
+      {
+        "at": "2025-05-15T13:07:22.000Z",
+        "steam": 23.99,
+        "epic": 59.99
+      },
+      {
+        "at": "2025-05-15T15:59:08.000Z",
+        "steam": 59.99,
+        "epic": 59.99
+      },
+      {
+        "at": "2025-05-15T17:15:58.000Z",
+        "steam": 23.99,
+        "epic": 59.99
+      },
+      {
+        "at": "2025-05-28T17:56:47.000Z",
+        "steam": 23.99,
+        "epic": 23.99
+      },
+      {
+        "at": "2025-06-26T01:13:02.000Z",
+        "steam": 59.99,
+        "epic": 23.99
+      },
+      {
+        "at": "2025-07-10T10:16:05.000Z",
+        "steam": 20.99,
+        "epic": 23.99
+      },
+      {
+        "at": "2025-07-10T17:53:01.000Z",
+        "steam": 20.99,
+        "epic": 59.99
+      },
+      {
+        "at": "2025-07-15T15:08:50.000Z",
+        "steam": 20.99,
+        "epic": 0
+      },
+      {
+        "at": "2025-07-17T13:12:00.000Z",
+        "steam": 20.99,
+        "epic": 59.99
+      },
+      {
+        "at": "2025-07-24T13:31:33.000Z",
+        "steam": 20.99,
+        "epic": 23.99
+      },
+      {
+        "at": "2025-07-31T15:46:00.000Z",
+        "steam": 59.99,
+        "epic": 23.99
+      },
+      {
+        "at": "2025-08-14T17:02:53.000Z",
+        "steam": 20.99,
+        "epic": 23.99
+      },
+      {
+        "at": "2025-09-04T11:06:24.000Z",
+        "steam": 20.99,
+        "epic": 59.99
+      },
+      {
+        "at": "2025-09-11T07:22:17.000Z",
+        "steam": 20.99,
+        "epic": 20.99
+      },
+      {
+        "at": "2025-09-18T15:59:50.000Z",
+        "steam": 59.99,
+        "epic": 20.99
+      },
+      {
+        "at": "2025-09-25T13:23:36.000Z",
+        "steam": 20.99,
+        "epic": 20.99
+      },
+      {
+        "at": "2025-09-28T17:15:47.000Z",
+        "steam": 59.99,
+        "epic": 20.99
+      },
+      {
+        "at": "2025-09-29T21:07:55.000Z",
+        "steam": 20.99,
+        "epic": 20.99
+      },
+      {
+        "at": "2025-10-08T07:33:14.000Z",
+        "steam": 20.99,
+        "epic": 59.99
+      },
+      {
+        "at": "2025-10-28T14:42:43.000Z",
+        "steam": 20.99,
+        "epic": 20.99
+      },
+      {
+        "at": "2025-11-01T22:49:34.000Z",
+        "steam": 20.99,
+        "epic": 0
+      },
+      {
+        "at": "2025-11-02T00:38:33.000Z",
+        "steam": 20.99,
+        "epic": 20.99
+      },
+      {
+        "at": "2025-11-25T14:11:34.000Z",
+        "steam": 59.99,
+        "epic": 20.99
+      },
+      {
+        "at": "2025-12-10T11:11:26.000Z",
+        "steam": 20.99,
+        "epic": 20.99
+      },
+      {
+        "at": "2025-12-11T18:19:38.000Z",
+        "steam": 20.99,
+        "epic": 59.99
+      },
+      {
+        "at": "2025-12-18T18:38:21.000Z",
+        "steam": 59.99,
+        "epic": 59.99
+      },
+      {
+        "at": "2026-01-05T18:06:17.000Z",
+        "steam": 20.99,
+        "epic": 59.99
+      },
+      {
+        "at": "2026-01-05T19:17:37.000Z",
+        "steam": 20.99,
+        "epic": 20.99
+      },
+      {
+        "at": "2026-02-12T14:09:06.000Z",
+        "steam": 59.99,
+        "epic": 20.99
+      },
+      {
+        "at": "2026-02-20T08:13:54.000Z",
+        "steam": 26.99,
+        "epic": 20.99
+      },
+      {
+        "at": "2026-02-26T16:37:03.836Z",
+        "steam": 59.99,
+        "epic": 59.99
+      }
+    ],
+    "history": [
+      {
+        "month": "2025-03",
+        "steam": 23.99,
+        "epic": 59.99
+      },
+      {
+        "month": "2025-04",
+        "steam": 23.99,
+        "epic": 23.99
+      },
+      {
+        "month": "2025-05",
+        "steam": 23.99,
+        "epic": 23.99
+      },
+      {
+        "month": "2025-06",
+        "steam": 59.99,
+        "epic": 23.99
+      },
+      {
+        "month": "2025-07",
+        "steam": 59.99,
+        "epic": 23.99
+      },
+      {
+        "month": "2025-08",
+        "steam": 20.99,
+        "epic": 23.99
+      },
+      {
+        "month": "2025-09",
+        "steam": 20.99,
+        "epic": 20.99
+      },
+      {
+        "month": "2025-10",
+        "steam": 20.99,
+        "epic": 20.99
+      },
+      {
+        "month": "2025-11",
+        "steam": 59.99,
+        "epic": 20.99
+      },
+      {
+        "month": "2025-12",
+        "steam": 59.99,
+        "epic": 59.99
+      },
+      {
+        "month": "2026-01",
+        "steam": 20.99,
+        "epic": 20.99
+      },
+      {
+        "month": "2026-02",
+        "steam": 59.99,
+        "epic": 59.99
+      }
+    ],
+    "dataSource": "isthereanydeal-site-history",
+    "match": {
+      "gid": "018d937f-2997-7131-b8b9-7c8af4825fa8",
+      "slug": "cyberpunk-2077",
+      "title": "Cyberpunk 2077",
+      "via": "slug"
+    }
+  },
+  "elden-ring": {
+    "title": "Elden Ring",
+    "updatedAt": "2026-02-26 16:37:03 UTC",
+    "freeExternal": false,
+    "stores": {
+      "steam": {
+        "available": true,
+        "free": false,
+        "current": 59.99,
+        "normal": 59.99,
+        "currency": "USD",
+        "source": "Steam"
+      },
+      "epic": {
+        "available": false,
+        "free": false,
+        "current": null,
+        "normal": null,
+        "currency": "USD",
+        "source": "Epic Games Store"
+      }
+    },
+    "historyPoints": [
+      {
+        "at": "2025-03-13T19:23:23.000Z",
+        "steam": 59.99,
+        "epic": null
+      },
+      {
+        "at": "2025-03-20T17:15:47.000Z",
+        "steam": 35.99,
+        "epic": null
+      },
+      {
+        "at": "2025-06-26T20:37:21.000Z",
+        "steam": 59.99,
+        "epic": null
+      },
+      {
+        "at": "2025-07-10T17:47:17.000Z",
+        "steam": 35.99,
+        "epic": null
+      },
+      {
+        "at": "2025-12-18T16:20:55.000Z",
+        "steam": 59.99,
+        "epic": null
+      },
+      {
+        "at": "2026-01-05T18:55:30.000Z",
+        "steam": 38.99,
+        "epic": null
+      },
+      {
+        "at": "2026-02-26T16:37:03.836Z",
+        "steam": 59.99,
+        "epic": null
+      }
+    ],
+    "history": [
+      {
+        "month": "2025-03",
+        "steam": 35.99,
+        "epic": null
+      },
+      {
+        "month": "2025-04",
+        "steam": 35.99,
+        "epic": null
+      },
+      {
+        "month": "2025-05",
+        "steam": 35.99,
+        "epic": null
+      },
+      {
+        "month": "2025-06",
+        "steam": 59.99,
+        "epic": null
+      },
+      {
+        "month": "2025-07",
+        "steam": 35.99,
+        "epic": null
+      },
+      {
+        "month": "2025-08",
+        "steam": 35.99,
+        "epic": null
+      },
+      {
+        "month": "2025-09",
+        "steam": 35.99,
+        "epic": null
+      },
+      {
+        "month": "2025-10",
+        "steam": 35.99,
+        "epic": null
+      },
+      {
+        "month": "2025-11",
+        "steam": 35.99,
+        "epic": null
+      },
+      {
+        "month": "2025-12",
+        "steam": 59.99,
+        "epic": null
+      },
+      {
+        "month": "2026-01",
+        "steam": 38.99,
+        "epic": null
+      },
+      {
+        "month": "2026-02",
+        "steam": 59.99,
+        "epic": null
+      }
+    ],
+    "dataSource": "isthereanydeal-site-history",
+    "match": {
+      "gid": "018d937f-590c-728b-ac35-38bcff85f086",
+      "slug": "elden-ring",
+      "title": "Elden Ring",
+      "via": "slug"
+    }
+  },
+  "ghost-of-tsushima": {
+    "title": "Ghost of Tsushima DIRECTOR'S CUT",
+    "updatedAt": "2026-02-26 16:37:03 UTC",
+    "freeExternal": false,
+    "stores": {
+      "steam": {
+        "available": true,
+        "free": false,
+        "current": 59.99,
+        "normal": 59.99,
+        "currency": "USD",
+        "source": "Steam"
+      },
+      "epic": {
+        "available": true,
+        "free": false,
+        "current": 59.99,
+        "normal": 59.99,
+        "currency": "USD",
+        "source": "Epic Games Store"
+      }
+    },
+    "historyPoints": [
+      {
+        "at": "2025-02-26T00:00:00.000Z",
+        "steam": 59.99,
+        "epic": null
+      },
+      {
+        "at": "2025-03-20T17:57:20.000Z",
+        "steam": 40.19,
+        "epic": null
+      },
+      {
+        "at": "2025-03-21T00:18:40.000Z",
+        "steam": 40.19,
+        "epic": 59.99
+      },
+      {
+        "at": "2025-04-08T23:15:55.000Z",
+        "steam": 40.19,
+        "epic": 40.19
+      },
+      {
+        "at": "2025-05-11T07:01:02.000Z",
+        "steam": 40.19,
+        "epic": 59.99
+      },
+      {
+        "at": "2025-06-12T05:56:01.000Z",
+        "steam": 40.19,
+        "epic": 40.19
+      },
+      {
+        "at": "2025-06-26T20:37:21.000Z",
+        "steam": 59.99,
+        "epic": 40.19
+      },
+      {
+        "at": "2025-07-10T18:06:16.000Z",
+        "steam": 40.19,
+        "epic": 40.19
+      },
+      {
+        "at": "2025-07-12T15:05:20.000Z",
+        "steam": 40.19,
+        "epic": 59.99
+      },
+      {
+        "at": "2025-07-17T15:19:46.000Z",
+        "steam": 40.19,
+        "epic": 40.19
+      },
+      {
+        "at": "2025-09-04T11:20:37.000Z",
+        "steam": 40.19,
+        "epic": 59.99
+      },
+      {
+        "at": "2025-09-17T21:51:38.000Z",
+        "steam": 40.19,
+        "epic": 40.19
+      },
+      {
+        "at": "2025-09-29T17:27:09.000Z",
+        "steam": 59.99,
+        "epic": 40.19
+      },
+      {
+        "at": "2025-10-12T17:11:27.000Z",
+        "steam": 40.19,
+        "epic": 40.19
+      },
+      {
+        "at": "2025-10-27T17:00:26.000Z",
+        "steam": 59.99,
+        "epic": 40.19
+      },
+      {
+        "at": "2025-11-04T12:40:42.000Z",
+        "steam": 59.99,
+        "epic": 59.99
+      },
+      {
+        "at": "2025-11-10T06:45:25.000Z",
+        "steam": 59.99,
+        "epic": 35.99
+      },
+      {
+        "at": "2025-11-20T18:23:04.000Z",
+        "steam": 0,
+        "epic": 35.99
+      },
+      {
+        "at": "2025-12-02T18:17:47.000Z",
+        "steam": 35.99,
+        "epic": 35.99
+      },
+      {
+        "at": "2025-12-09T17:15:55.000Z",
+        "steam": 35.99,
+        "epic": 59.99
+      },
+      {
+        "at": "2025-12-18T20:11:51.000Z",
+        "steam": 59.99,
+        "epic": 59.99
+      },
+      {
+        "at": "2026-01-05T19:31:10.000Z",
+        "steam": 35.99,
+        "epic": 59.99
+      },
+      {
+        "at": "2026-01-06T03:35:26.000Z",
+        "steam": 35.99,
+        "epic": 35.99
+      },
+      {
+        "at": "2026-01-19T15:50:17.000Z",
+        "steam": 35.99,
+        "epic": 59.99
+      },
+      {
+        "at": "2026-01-20T18:50:38.000Z",
+        "steam": 35.99,
+        "epic": 0
+      },
+      {
+        "at": "2026-02-09T11:16:00.000Z",
+        "steam": 35.99,
+        "epic": 59.99
+      },
+      {
+        "at": "2026-02-09T18:19:48.000Z",
+        "steam": 59.99,
+        "epic": 59.99
+      },
+      {
+        "at": "2026-02-23T16:34:16.000Z",
+        "steam": 59.99,
+        "epic": 35.99
+      },
+      {
+        "at": "2026-02-23T18:11:43.000Z",
+        "steam": 35.99,
+        "epic": 35.99
+      },
+      {
+        "at": "2026-02-26T16:37:03.836Z",
+        "steam": 59.99,
+        "epic": 59.99
+      }
+    ],
+    "history": [
+      {
+        "month": "2025-03",
+        "steam": 40.19,
+        "epic": 59.99
+      },
+      {
+        "month": "2025-04",
+        "steam": 40.19,
+        "epic": 40.19
+      },
+      {
+        "month": "2025-05",
+        "steam": 40.19,
+        "epic": 59.99
+      },
+      {
+        "month": "2025-06",
+        "steam": 59.99,
+        "epic": 40.19
+      },
+      {
+        "month": "2025-07",
+        "steam": 40.19,
+        "epic": 40.19
+      },
+      {
+        "month": "2025-08",
+        "steam": 40.19,
+        "epic": 40.19
+      },
+      {
+        "month": "2025-09",
+        "steam": 59.99,
+        "epic": 40.19
+      },
+      {
+        "month": "2025-10",
+        "steam": 59.99,
+        "epic": 40.19
+      },
+      {
+        "month": "2025-11",
+        "steam": 0,
+        "epic": 35.99
+      },
+      {
+        "month": "2025-12",
+        "steam": 59.99,
+        "epic": 59.99
+      },
+      {
+        "month": "2026-01",
+        "steam": 35.99,
+        "epic": 0
+      },
+      {
+        "month": "2026-02",
+        "steam": 59.99,
+        "epic": 59.99
+      }
+    ],
+    "dataSource": "isthereanydeal-site-history",
+    "match": {
+      "gid": "018e147e-9b32-7025-90af-981a785efddf",
+      "slug": "ghost-of-tsushima-directors-cut",
+      "title": "Ghost of Tsushima DIRECTOR'S CUT",
+      "via": "slug"
+    }
+  },
+  "horizon-forbidden-west": {
+    "title": "Horizon Forbidden West Complete Edition",
+    "updatedAt": "2026-02-26 16:37:03 UTC",
+    "freeExternal": false,
+    "stores": {
+      "steam": {
+        "available": true,
+        "free": false,
+        "current": 59.99,
+        "normal": 59.99,
+        "currency": "USD",
+        "source": "Steam"
+      },
+      "epic": {
+        "available": true,
+        "free": false,
+        "current": 59.99,
+        "normal": 59.99,
+        "currency": "USD",
+        "source": "Epic Games Store"
+      }
+    },
+    "historyPoints": [
+      {
+        "at": "2025-03-13T10:56:43.000Z",
+        "steam": 59.99,
+        "epic": null
+      },
+      {
+        "at": "2025-03-20T17:57:20.000Z",
+        "steam": 40.19,
+        "epic": null
+      },
+      {
+        "at": "2025-03-24T10:15:45.000Z",
+        "steam": 40.19,
+        "epic": 59.99
+      },
+      {
+        "at": "2025-04-08T23:15:54.000Z",
+        "steam": 40.19,
+        "epic": 40.19
+      },
+      {
+        "at": "2025-05-15T02:40:58.000Z",
+        "steam": 40.19,
+        "epic": 59.99
+      },
+      {
+        "at": "2025-06-12T15:07:10.000Z",
+        "steam": 40.19,
+        "epic": 40.19
+      },
+      {
+        "at": "2025-06-23T17:50:51.000Z",
+        "steam": 59.99,
+        "epic": 40.19
+      },
+      {
+        "at": "2025-07-10T18:06:16.000Z",
+        "steam": 35.99,
+        "epic": 40.19
+      },
+      {
+        "at": "2025-07-11T01:46:14.000Z",
+        "steam": 35.99,
+        "epic": 59.99
+      },
+      {
+        "at": "2025-07-17T15:19:49.000Z",
+        "steam": 35.99,
+        "epic": 35.99
+      },
+      {
+        "at": "2025-09-04T11:21:20.000Z",
+        "steam": 35.99,
+        "epic": 59.99
+      },
+      {
+        "at": "2025-09-10T10:31:02.000Z",
+        "steam": 35.99,
+        "epic": 35.99
+      },
+      {
+        "at": "2025-09-29T17:26:42.000Z",
+        "steam": 59.99,
+        "epic": 35.99
+      },
+      {
+        "at": "2025-10-06T17:55:46.000Z",
+        "steam": 35.99,
+        "epic": 35.99
+      },
+      {
+        "at": "2025-10-27T13:41:36.000Z",
+        "steam": 35.99,
+        "epic": 59.99
+      },
+      {
+        "at": "2025-11-10T19:06:22.000Z",
+        "steam": 35.99,
+        "epic": 35.99
+      },
+      {
+        "at": "2025-11-20T18:14:56.000Z",
+        "steam": 59.99,
+        "epic": 35.99
+      },
+      {
+        "at": "2025-12-02T18:17:48.000Z",
+        "steam": 35.99,
+        "epic": 35.99
+      },
+      {
+        "at": "2025-12-06T12:01:22.000Z",
+        "steam": 35.99,
+        "epic": 59.99
+      },
+      {
+        "at": "2025-12-18T20:11:51.000Z",
+        "steam": 59.99,
+        "epic": 59.99
+      },
+      {
+        "at": "2026-01-05T19:31:10.000Z",
+        "steam": 35.99,
+        "epic": 59.99
+      },
+      {
+        "at": "2026-01-06T03:35:26.000Z",
+        "steam": 35.99,
+        "epic": 35.99
+      },
+      {
+        "at": "2026-02-09T10:51:40.000Z",
+        "steam": 35.99,
+        "epic": 59.99
+      },
+      {
+        "at": "2026-02-09T18:17:54.000Z",
+        "steam": 59.99,
+        "epic": 59.99
+      },
+      {
+        "at": "2026-02-22T22:46:05.000Z",
+        "steam": 59.99,
+        "epic": 35.99
+      },
+      {
+        "at": "2026-02-23T18:21:52.000Z",
+        "steam": 35.99,
+        "epic": 35.99
+      },
+      {
+        "at": "2026-02-26T16:37:03.836Z",
+        "steam": 59.99,
+        "epic": 59.99
+      }
+    ],
+    "history": [
+      {
+        "month": "2025-03",
+        "steam": 40.19,
+        "epic": 59.99
+      },
+      {
+        "month": "2025-04",
+        "steam": 40.19,
+        "epic": 40.19
+      },
+      {
+        "month": "2025-05",
+        "steam": 40.19,
+        "epic": 59.99
+      },
+      {
+        "month": "2025-06",
+        "steam": 59.99,
+        "epic": 40.19
+      },
+      {
+        "month": "2025-07",
+        "steam": 35.99,
+        "epic": 35.99
+      },
+      {
+        "month": "2025-08",
+        "steam": 35.99,
+        "epic": 35.99
+      },
+      {
+        "month": "2025-09",
+        "steam": 59.99,
+        "epic": 35.99
+      },
+      {
+        "month": "2025-10",
+        "steam": 35.99,
+        "epic": 59.99
+      },
+      {
+        "month": "2025-11",
+        "steam": 59.99,
+        "epic": 35.99
+      },
+      {
+        "month": "2025-12",
+        "steam": 59.99,
+        "epic": 59.99
+      },
+      {
+        "month": "2026-01",
+        "steam": 35.99,
+        "epic": 35.99
+      },
+      {
+        "month": "2026-02",
+        "steam": 59.99,
+        "epic": 59.99
+      }
+    ],
+    "dataSource": "isthereanydeal-site-history",
+    "match": {
+      "gid": "018d937f-75c0-7271-aa0e-acffaba43e75",
+      "slug": "horizon-forbidden-west-complete-edition",
+      "title": "Horizon Forbidden West Complete Edition",
+      "via": "slug"
+    }
+  },
+  "zelda-botw": {
+    "title": "The Legend of Zelda: Breath of the Wild",
+    "updatedAt": "2026-02-26 16:37:03 UTC",
+    "freeExternal": false,
+    "stores": {
+      "steam": {
+        "available": false,
+        "free": false,
+        "current": null,
+        "normal": null,
+        "currency": "USD",
+        "source": "Steam"
+      },
+      "epic": {
+        "available": false,
+        "free": false,
+        "current": null,
+        "normal": null,
+        "currency": "USD",
+        "source": "Epic Games Store"
+      }
+    },
+    "historyPoints": [],
+    "history": [
+      {
+        "month": "2025-03",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2025-04",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2025-05",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2025-06",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2025-07",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2025-08",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2025-09",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2025-10",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2025-11",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2025-12",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2026-01",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2026-02",
+        "steam": null,
+        "epic": null
+      }
+    ],
+    "dataSource": "isthereanydeal-site-history",
+    "match": {
+      "gid": "018d937f-12d9-703d-baad-f6d536cd81e8",
+      "slug": "the-legend-of-zelda-breath-of-the-wild",
+      "title": "The Legend of Zelda: Breath of the Wild",
+      "via": "slug"
+    }
+  },
+  "the-witcher-3": {
+    "title": "The Witcher 3: Wild Hunt - Complete Edition",
+    "updatedAt": "2026-02-26 16:37:03 UTC",
+    "freeExternal": false,
+    "stores": {
+      "steam": {
+        "available": true,
+        "free": false,
+        "current": 49.99,
+        "normal": 49.99,
+        "currency": "USD",
+        "source": "Steam"
+      },
+      "epic": {
+        "available": true,
+        "free": false,
+        "current": 49.96,
+        "normal": 49.96,
+        "currency": "USD",
+        "source": "Epic Games Store"
+      }
+    },
+    "historyPoints": [
+      {
+        "at": "2025-02-26T00:00:00.000Z",
+        "steam": 49.99,
+        "epic": null
+      },
+      {
+        "at": "2025-03-19T14:05:02.000Z",
+        "steam": 49.99,
+        "epic": 49.96
+      },
+      {
+        "at": "2025-03-26T16:01:29.000Z",
+        "steam": 9.99,
+        "epic": 49.96
+      },
+      {
+        "at": "2025-04-03T07:32:32.000Z",
+        "steam": 9.99,
+        "epic": 9.99
+      },
+      {
+        "at": "2025-04-03T18:58:56.000Z",
+        "steam": 9.99,
+        "epic": 0
+      },
+      {
+        "at": "2025-04-03T19:44:24.000Z",
+        "steam": 9.99,
+        "epic": 9.99
+      },
+      {
+        "at": "2025-04-09T15:03:03.000Z",
+        "steam": 9.99,
+        "epic": 49.96
+      },
+      {
+        "at": "2025-04-11T14:19:19.000Z",
+        "steam": 9.99,
+        "epic": 0
+      },
+      {
+        "at": "2025-05-09T17:16:01.000Z",
+        "steam": 9.99,
+        "epic": 49.96
+      },
+      {
+        "at": "2025-05-15T13:07:23.000Z",
+        "steam": 49.99,
+        "epic": 49.96
+      },
+      {
+        "at": "2025-05-15T17:15:58.000Z",
+        "steam": 49.99,
+        "epic": 9.99
+      },
+      {
+        "at": "2025-05-20T15:28:14.000Z",
+        "steam": 9.99,
+        "epic": 9.99
+      },
+      {
+        "at": "2025-06-05T09:37:19.000Z",
+        "steam": 9.99,
+        "epic": 49.96
+      },
+      {
+        "at": "2025-06-08T19:06:47.000Z",
+        "steam": 9.99,
+        "epic": 0
+      },
+      {
+        "at": "2025-06-18T12:56:41.000Z",
+        "steam": 49.99,
+        "epic": 0
+      },
+      {
+        "at": "2025-07-10T07:23:00.000Z",
+        "steam": 9.99,
+        "epic": 0
+      },
+      {
+        "at": "2025-07-11T14:06:33.000Z",
+        "steam": 9.99,
+        "epic": 49.96
+      },
+      {
+        "at": "2025-07-27T19:24:48.000Z",
+        "steam": 9.99,
+        "epic": 9.99
+      },
+      {
+        "at": "2025-07-31T15:44:52.000Z",
+        "steam": 49.99,
+        "epic": 9.99
+      },
+      {
+        "at": "2025-08-14T17:21:11.000Z",
+        "steam": 9.99,
+        "epic": 9.99
+      },
+      {
+        "at": "2025-09-04T11:18:10.000Z",
+        "steam": 9.99,
+        "epic": 49.96
+      },
+      {
+        "at": "2025-09-11T07:22:19.000Z",
+        "steam": 9.99,
+        "epic": 9.99
+      },
+      {
+        "at": "2025-09-18T15:34:41.000Z",
+        "steam": 49.99,
+        "epic": 9.99
+      },
+      {
+        "at": "2025-09-25T13:23:44.000Z",
+        "steam": 9.99,
+        "epic": 9.99
+      },
+      {
+        "at": "2025-09-28T17:15:47.000Z",
+        "steam": 49.99,
+        "epic": 9.99
+      },
+      {
+        "at": "2025-09-29T21:07:54.000Z",
+        "steam": 9.99,
+        "epic": 9.99
+      },
+      {
+        "at": "2025-10-08T07:33:17.000Z",
+        "steam": 9.99,
+        "epic": 49.96
+      },
+      {
+        "at": "2025-10-28T14:09:10.000Z",
+        "steam": 9.99,
+        "epic": 9.99
+      },
+      {
+        "at": "2025-11-25T13:39:29.000Z",
+        "steam": 49.99,
+        "epic": 9.99
+      },
+      {
+        "at": "2025-12-11T14:16:02.000Z",
+        "steam": 9.99,
+        "epic": 9.99
+      },
+      {
+        "at": "2025-12-11T18:19:37.000Z",
+        "steam": 9.99,
+        "epic": 49.96
+      },
+      {
+        "at": "2025-12-18T18:56:59.000Z",
+        "steam": 49.99,
+        "epic": 49.96
+      },
+      {
+        "at": "2026-01-05T18:07:20.000Z",
+        "steam": 9.99,
+        "epic": 49.96
+      },
+      {
+        "at": "2026-01-05T18:33:22.000Z",
+        "steam": 9.99,
+        "epic": 9.99
+      },
+      {
+        "at": "2026-02-12T14:09:08.000Z",
+        "steam": 49.99,
+        "epic": 9.99
+      },
+      {
+        "at": "2026-02-21T18:32:11.000Z",
+        "steam": 9.99,
+        "epic": 9.99
+      },
+      {
+        "at": "2026-02-26T16:37:03.836Z",
+        "steam": 49.99,
+        "epic": 49.96
+      }
+    ],
+    "history": [
+      {
+        "month": "2025-03",
+        "steam": 9.99,
+        "epic": 49.96
+      },
+      {
+        "month": "2025-04",
+        "steam": 9.99,
+        "epic": 0
+      },
+      {
+        "month": "2025-05",
+        "steam": 9.99,
+        "epic": 9.99
+      },
+      {
+        "month": "2025-06",
+        "steam": 49.99,
+        "epic": 0
+      },
+      {
+        "month": "2025-07",
+        "steam": 49.99,
+        "epic": 9.99
+      },
+      {
+        "month": "2025-08",
+        "steam": 9.99,
+        "epic": 9.99
+      },
+      {
+        "month": "2025-09",
+        "steam": 9.99,
+        "epic": 9.99
+      },
+      {
+        "month": "2025-10",
+        "steam": 9.99,
+        "epic": 9.99
+      },
+      {
+        "month": "2025-11",
+        "steam": 49.99,
+        "epic": 9.99
+      },
+      {
+        "month": "2025-12",
+        "steam": 49.99,
+        "epic": 49.96
+      },
+      {
+        "month": "2026-01",
+        "steam": 9.99,
+        "epic": 9.99
+      },
+      {
+        "month": "2026-02",
+        "steam": 49.99,
+        "epic": 49.96
+      }
+    ],
+    "dataSource": "isthereanydeal-site-history",
+    "match": {
+      "gid": "018d937f-3a29-72b9-888f-ecbf55a28e80",
+      "slug": "the-witcher-3-wild-hunt-complete-edition",
+      "title": "The Witcher 3: Wild Hunt - Complete Edition",
+      "via": "slug"
+    }
+  },
+  "skyrim": {
+    "title": "The Elder Scrolls V: Skyrim Special Edition",
+    "updatedAt": "2026-02-26 16:37:03 UTC",
+    "freeExternal": false,
+    "stores": {
+      "steam": {
+        "available": true,
+        "free": false,
+        "current": 39.99,
+        "normal": 39.99,
+        "currency": "USD",
+        "source": "Steam"
+      },
+      "epic": {
+        "available": true,
+        "free": false,
+        "current": 39.99,
+        "normal": 39.99,
+        "currency": "USD",
+        "source": "Epic Games Store"
+      }
+    },
+    "historyPoints": [
+      {
+        "at": "2025-02-26T00:00:00.000Z",
+        "steam": null,
+        "epic": 39.99
+      },
+      {
+        "at": "2025-02-26T00:55:48.000Z",
+        "steam": null,
+        "epic": 0
+      },
+      {
+        "at": "2025-03-11T11:41:20.000Z",
+        "steam": 39.99,
+        "epic": 0
+      },
+      {
+        "at": "2025-03-20T17:17:22.000Z",
+        "steam": 9.99,
+        "epic": 0
+      },
+      {
+        "at": "2025-03-22T01:45:58.000Z",
+        "steam": 9.99,
+        "epic": 39.99
+      },
+      {
+        "at": "2025-04-06T23:15:50.000Z",
+        "steam": 9.99,
+        "epic": 9.99
+      },
+      {
+        "at": "2025-05-12T15:40:53.000Z",
+        "steam": 9.99,
+        "epic": 39.99
+      },
+      {
+        "at": "2025-05-24T08:10:22.000Z",
+        "steam": 39.99,
+        "epic": 39.99
+      },
+      {
+        "at": "2025-06-05T15:30:55.000Z",
+        "steam": 9.99,
+        "epic": 39.99
+      },
+      {
+        "at": "2025-06-11T19:05:27.000Z",
+        "steam": 9.99,
+        "epic": 9.99
+      },
+      {
+        "at": "2025-06-26T09:01:52.000Z",
+        "steam": 39.99,
+        "epic": 9.99
+      },
+      {
+        "at": "2025-07-10T07:22:44.000Z",
+        "steam": 9.99,
+        "epic": 9.99
+      },
+      {
+        "at": "2025-07-30T01:20:46.000Z",
+        "steam": 9.99,
+        "epic": 39.99
+      },
+      {
+        "at": "2025-07-30T15:32:01.000Z",
+        "steam": 39.99,
+        "epic": 39.99
+      },
+      {
+        "at": "2025-08-13T15:46:17.000Z",
+        "steam": 39.99,
+        "epic": 9.99
+      },
+      {
+        "at": "2025-08-13T16:16:35.000Z",
+        "steam": 9.99,
+        "epic": 9.99
+      },
+      {
+        "at": "2025-09-29T17:02:37.000Z",
+        "steam": 39.99,
+        "epic": 9.99
+      },
+      {
+        "at": "2025-10-06T17:04:16.000Z",
+        "steam": 9.99,
+        "epic": 9.99
+      },
+      {
+        "at": "2025-11-13T14:12:37.000Z",
+        "steam": 9.99,
+        "epic": 39.99
+      },
+      {
+        "at": "2025-11-24T18:23:00.000Z",
+        "steam": 39.99,
+        "epic": 39.99
+      },
+      {
+        "at": "2025-11-25T13:40:24.000Z",
+        "steam": 39.99,
+        "epic": 9.99
+      },
+      {
+        "at": "2025-12-02T16:35:19.000Z",
+        "steam": 9.99,
+        "epic": 9.99
+      },
+      {
+        "at": "2025-12-18T19:00:39.000Z",
+        "steam": 39.99,
+        "epic": 9.99
+      },
+      {
+        "at": "2026-01-05T18:36:15.000Z",
+        "steam": 9.99,
+        "epic": 9.99
+      },
+      {
+        "at": "2026-02-09T01:21:14.000Z",
+        "steam": 9.99,
+        "epic": 39.99
+      },
+      {
+        "at": "2026-02-12T14:08:38.000Z",
+        "steam": 39.99,
+        "epic": 39.99
+      },
+      {
+        "at": "2026-02-13T18:18:13.000Z",
+        "steam": 39.99,
+        "epic": 9.99
+      },
+      {
+        "at": "2026-02-23T16:54:01.000Z",
+        "steam": 9.99,
+        "epic": 9.99
+      },
+      {
+        "at": "2026-02-26T16:37:03.836Z",
+        "steam": 39.99,
+        "epic": 39.99
+      }
+    ],
+    "history": [
+      {
+        "month": "2025-03",
+        "steam": 9.99,
+        "epic": 39.99
+      },
+      {
+        "month": "2025-04",
+        "steam": 9.99,
+        "epic": 9.99
+      },
+      {
+        "month": "2025-05",
+        "steam": 39.99,
+        "epic": 39.99
+      },
+      {
+        "month": "2025-06",
+        "steam": 39.99,
+        "epic": 9.99
+      },
+      {
+        "month": "2025-07",
+        "steam": 39.99,
+        "epic": 39.99
+      },
+      {
+        "month": "2025-08",
+        "steam": 9.99,
+        "epic": 9.99
+      },
+      {
+        "month": "2025-09",
+        "steam": 39.99,
+        "epic": 9.99
+      },
+      {
+        "month": "2025-10",
+        "steam": 9.99,
+        "epic": 9.99
+      },
+      {
+        "month": "2025-11",
+        "steam": 39.99,
+        "epic": 9.99
+      },
+      {
+        "month": "2025-12",
+        "steam": 39.99,
+        "epic": 9.99
+      },
+      {
+        "month": "2026-01",
+        "steam": 9.99,
+        "epic": 9.99
+      },
+      {
+        "month": "2026-02",
+        "steam": 39.99,
+        "epic": 39.99
+      }
+    ],
+    "dataSource": "isthereanydeal-site-history",
+    "match": {
+      "gid": "018d937f-0481-72c2-9f37-97120a68525b",
+      "slug": "the-elder-scrolls-v-skyrim-special-edition",
+      "title": "The Elder Scrolls V: Skyrim Special Edition",
+      "via": "slug"
+    }
+  },
+  "final-fantasy-vii-rebirth": {
+    "title": "Final Fantasy VII Rebirth",
+    "updatedAt": "2026-02-26 16:37:03 UTC",
+    "freeExternal": false,
+    "stores": {
+      "steam": {
+        "available": true,
+        "free": false,
+        "current": 49.99,
+        "normal": 49.99,
+        "currency": "USD",
+        "source": "Steam"
+      },
+      "epic": {
+        "available": true,
+        "free": false,
+        "current": 49.99,
+        "normal": 49.99,
+        "currency": "USD",
+        "source": "Epic Games Store"
+      }
+    },
+    "historyPoints": [
+      {
+        "at": "2025-02-26T00:00:00.000Z",
+        "steam": 69.99,
+        "epic": null
+      },
+      {
+        "at": "2025-03-14T11:16:04.000Z",
+        "steam": 69.99,
+        "epic": 69.99
+      },
+      {
+        "at": "2025-03-14T17:16:09.000Z",
+        "steam": 48.99,
+        "epic": 69.99
+      },
+      {
+        "at": "2025-03-24T17:19:34.000Z",
+        "steam": 48.99,
+        "epic": 48.99
+      },
+      {
+        "at": "2025-04-28T08:16:08.000Z",
+        "steam": 69.99,
+        "epic": 48.99
+      },
+      {
+        "at": "2025-04-28T17:22:47.000Z",
+        "steam": 69.99,
+        "epic": 69.99
+      },
+      {
+        "at": "2025-05-07T01:01:23.000Z",
+        "steam": 69.99,
+        "epic": 48.99
+      },
+      {
+        "at": "2025-05-07T17:08:29.000Z",
+        "steam": 48.99,
+        "epic": 48.99
+      },
+      {
+        "at": "2025-06-17T11:42:49.000Z",
+        "steam": 69.99,
+        "epic": 48.99
+      },
+      {
+        "at": "2025-07-12T00:46:41.000Z",
+        "steam": 69.99,
+        "epic": 69.99
+      },
+      {
+        "at": "2025-07-17T15:19:31.000Z",
+        "steam": 41.99,
+        "epic": 69.99
+      },
+      {
+        "at": "2025-07-23T17:51:20.000Z",
+        "steam": 41.99,
+        "epic": 41.99
+      },
+      {
+        "at": "2025-09-04T11:11:11.000Z",
+        "steam": 41.99,
+        "epic": 69.99
+      },
+      {
+        "at": "2025-09-18T17:15:25.000Z",
+        "steam": 69.99,
+        "epic": 69.99
+      },
+      {
+        "at": "2025-09-25T09:36:07.000Z",
+        "steam": 69.99,
+        "epic": 41.99
+      },
+      {
+        "at": "2025-10-02T23:20:30.000Z",
+        "steam": 41.99,
+        "epic": 41.99
+      },
+      {
+        "at": "2025-10-06T18:29:22.000Z",
+        "steam": 41.99,
+        "epic": 69.99
+      },
+      {
+        "at": "2025-11-01T22:45:30.000Z",
+        "steam": 41.99,
+        "epic": 0
+      },
+      {
+        "at": "2025-11-02T00:36:56.000Z",
+        "steam": 41.99,
+        "epic": 69.99
+      },
+      {
+        "at": "2025-11-04T16:47:47.000Z",
+        "steam": 41.99,
+        "epic": 0
+      },
+      {
+        "at": "2025-11-05T06:26:40.000Z",
+        "steam": 69.99,
+        "epic": 0
+      },
+      {
+        "at": "2025-11-21T10:01:36.000Z",
+        "steam": 34.99,
+        "epic": 0
+      },
+      {
+        "at": "2025-12-11T18:25:41.000Z",
+        "steam": 34.99,
+        "epic": 69.99
+      },
+      {
+        "at": "2025-12-18T17:00:50.000Z",
+        "steam": 69.99,
+        "epic": 69.99
+      },
+      {
+        "at": "2025-12-19T11:21:05.000Z",
+        "steam": 69.99,
+        "epic": 34.99
+      },
+      {
+        "at": "2025-12-31T16:45:40.000Z",
+        "steam": 34.99,
+        "epic": 34.99
+      },
+      {
+        "at": "2026-01-06T00:50:57.000Z",
+        "steam": 34.99,
+        "epic": 69.99
+      },
+      {
+        "at": "2026-01-11T19:49:31.000Z",
+        "steam": 34.99,
+        "epic": 0
+      },
+      {
+        "at": "2026-01-15T18:17:15.000Z",
+        "steam": 69.99,
+        "epic": 0
+      },
+      {
+        "at": "2026-01-28T18:03:33.000Z",
+        "steam": 69.99,
+        "epic": 69.99
+      },
+      {
+        "at": "2026-02-03T16:27:38.000Z",
+        "steam": 34.99,
+        "epic": 69.99
+      },
+      {
+        "at": "2026-02-04T18:16:13.000Z",
+        "steam": 69.99,
+        "epic": 69.99
+      },
+      {
+        "at": "2026-02-09T18:40:40.000Z",
+        "steam": 69.99,
+        "epic": 34.99
+      },
+      {
+        "at": "2026-02-26T16:37:03.836Z",
+        "steam": 49.99,
+        "epic": 49.99
+      }
+    ],
+    "history": [
+      {
+        "month": "2025-03",
+        "steam": 48.99,
+        "epic": 48.99
+      },
+      {
+        "month": "2025-04",
+        "steam": 69.99,
+        "epic": 69.99
+      },
+      {
+        "month": "2025-05",
+        "steam": 48.99,
+        "epic": 48.99
+      },
+      {
+        "month": "2025-06",
+        "steam": 69.99,
+        "epic": 48.99
+      },
+      {
+        "month": "2025-07",
+        "steam": 41.99,
+        "epic": 41.99
+      },
+      {
+        "month": "2025-08",
+        "steam": 41.99,
+        "epic": 41.99
+      },
+      {
+        "month": "2025-09",
+        "steam": 69.99,
+        "epic": 41.99
+      },
+      {
+        "month": "2025-10",
+        "steam": 41.99,
+        "epic": 69.99
+      },
+      {
+        "month": "2025-11",
+        "steam": 34.99,
+        "epic": 0
+      },
+      {
+        "month": "2025-12",
+        "steam": 34.99,
+        "epic": 34.99
+      },
+      {
+        "month": "2026-01",
+        "steam": 69.99,
+        "epic": 69.99
+      },
+      {
+        "month": "2026-02",
+        "steam": 49.99,
+        "epic": 49.99
+      }
+    ],
+    "dataSource": "isthereanydeal-site-history",
+    "match": {
+      "gid": "0190378e-1a64-720e-8971-4595157e24f3",
+      "slug": "final-fantasy-vii-rebirth",
+      "title": "FINAL FANTASY VII REBIRTH",
+      "via": "slug"
+    }
+  },
+  "baldurs-gate-3": {
+    "title": "Baldur's Gate 3",
+    "updatedAt": "2026-02-26 16:37:03 UTC",
+    "freeExternal": false,
+    "stores": {
+      "steam": {
+        "available": true,
+        "free": false,
+        "current": 59.99,
+        "normal": 59.99,
+        "currency": "USD",
+        "source": "Steam"
+      },
+      "epic": {
+        "available": false,
+        "free": false,
+        "current": null,
+        "normal": null,
+        "currency": "USD",
+        "source": "Epic Games Store"
+      }
+    },
+    "historyPoints": [
+      {
+        "at": "2025-02-26T00:00:00.000Z",
+        "steam": 59.99,
+        "epic": null
+      },
+      {
+        "at": "2025-03-19T14:04:35.000Z",
+        "steam": 47.99,
+        "epic": null
+      },
+      {
+        "at": "2025-04-03T07:32:19.000Z",
+        "steam": 59.99,
+        "epic": null
+      },
+      {
+        "at": "2025-04-21T17:07:04.000Z",
+        "steam": 47.99,
+        "epic": null
+      },
+      {
+        "at": "2025-04-21T17:18:19.000Z",
+        "steam": 59.99,
+        "epic": null
+      },
+      {
+        "at": "2025-05-19T17:42:20.000Z",
+        "steam": 47.99,
+        "epic": null
+      },
+      {
+        "at": "2025-06-18T12:55:32.000Z",
+        "steam": 59.99,
+        "epic": null
+      },
+      {
+        "at": "2025-07-04T07:16:49.000Z",
+        "steam": 47.99,
+        "epic": null
+      },
+      {
+        "at": "2025-09-01T16:52:37.000Z",
+        "steam": 59.99,
+        "epic": null
+      },
+      {
+        "at": "2025-09-07T17:01:36.000Z",
+        "steam": 44.99,
+        "epic": null
+      },
+      {
+        "at": "2025-09-25T13:28:50.000Z",
+        "steam": 59.99,
+        "epic": null
+      },
+      {
+        "at": "2025-10-04T07:27:12.000Z",
+        "steam": 44.99,
+        "epic": null
+      },
+      {
+        "at": "2025-12-18T17:49:11.000Z",
+        "steam": 59.99,
+        "epic": null
+      },
+      {
+        "at": "2026-01-03T08:02:50.000Z",
+        "steam": 44.99,
+        "epic": null
+      },
+      {
+        "at": "2026-02-26T16:37:03.836Z",
+        "steam": 59.99,
+        "epic": null
+      }
+    ],
+    "history": [
+      {
+        "month": "2025-03",
+        "steam": 47.99,
+        "epic": null
+      },
+      {
+        "month": "2025-04",
+        "steam": 59.99,
+        "epic": null
+      },
+      {
+        "month": "2025-05",
+        "steam": 47.99,
+        "epic": null
+      },
+      {
+        "month": "2025-06",
+        "steam": 59.99,
+        "epic": null
+      },
+      {
+        "month": "2025-07",
+        "steam": 47.99,
+        "epic": null
+      },
+      {
+        "month": "2025-08",
+        "steam": 47.99,
+        "epic": null
+      },
+      {
+        "month": "2025-09",
+        "steam": 59.99,
+        "epic": null
+      },
+      {
+        "month": "2025-10",
+        "steam": 44.99,
+        "epic": null
+      },
+      {
+        "month": "2025-11",
+        "steam": 44.99,
+        "epic": null
+      },
+      {
+        "month": "2025-12",
+        "steam": 59.99,
+        "epic": null
+      },
+      {
+        "month": "2026-01",
+        "steam": 44.99,
+        "epic": null
+      },
+      {
+        "month": "2026-02",
+        "steam": 59.99,
+        "epic": null
+      }
+    ],
+    "dataSource": "isthereanydeal-site-history",
+    "match": {
+      "gid": "018d9584-24d6-7010-b82b-df1f0b154cc7",
+      "slug": "baldurs-gate-3",
+      "title": "Baldur's Gate 3",
+      "via": "slug"
+    }
+  },
+  "gran-turismo-7": {
+    "title": "Gran Turismo 7",
+    "updatedAt": "2026-02-26 16:37:03 UTC",
+    "freeExternal": false,
+    "stores": {
+      "steam": {
+        "available": false,
+        "free": false,
+        "current": null,
+        "normal": null,
+        "currency": "USD",
+        "source": "Steam"
+      },
+      "epic": {
+        "available": false,
+        "free": false,
+        "current": null,
+        "normal": null,
+        "currency": "USD",
+        "source": "Epic Games Store"
+      }
+    },
+    "historyPoints": [],
+    "history": [
+      {
+        "month": "2025-03",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2025-04",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2025-05",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2025-06",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2025-07",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2025-08",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2025-09",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2025-10",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2025-11",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2025-12",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2026-01",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2026-02",
+        "steam": null,
+        "epic": null
+      }
+    ],
+    "dataSource": "isthereanydeal-site-history",
+    "match": {
+      "gid": "018d937f-5dbc-72fe-a81e-1d616c868ca7",
+      "slug": "gran-turismo-7",
+      "title": "Gran Turismo 7",
+      "via": "slug"
+    }
+  },
+  "need-for-speed-heat": {
+    "title": "Need for Speed Heat",
+    "updatedAt": "2026-02-26 16:37:03 UTC",
+    "freeExternal": false,
+    "stores": {
+      "steam": {
+        "available": true,
+        "free": false,
+        "current": 69.99,
+        "normal": 69.99,
+        "currency": "USD",
+        "source": "Steam"
+      },
+      "epic": {
+        "available": false,
+        "free": false,
+        "current": null,
+        "normal": null,
+        "currency": "USD",
+        "source": "Epic Games Store"
+      }
+    },
+    "historyPoints": [
+      {
+        "at": "2026-02-26T16:37:03.836Z",
+        "steam": 0,
+        "epic": null
+      }
+    ],
+    "history": [
+      {
+        "month": "2025-03",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2025-04",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2025-05",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2025-06",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2025-07",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2025-08",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2025-09",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2025-10",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2025-11",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2025-12",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2026-01",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2026-02",
+        "steam": 0,
+        "epic": null
+      }
+    ],
+    "dataSource": "isthereanydeal-site-history",
+    "match": {
+      "gid": "018d937f-333d-73a0-b5c7-b40075c95b25",
+      "slug": "need-for-speed-heat",
+      "title": "Need for Speed™ Heat",
+      "via": "slug"
+    }
+  },
+  "f1-24": {
+    "title": "F1 24",
+    "updatedAt": "2026-02-26 16:37:03 UTC",
+    "freeExternal": false,
+    "stores": {
+      "steam": {
+        "available": true,
+        "free": false,
+        "current": 69.99,
+        "normal": 69.99,
+        "currency": "USD",
+        "source": "Steam"
+      },
+      "epic": {
+        "available": true,
+        "free": false,
+        "current": 69.99,
+        "normal": 69.99,
+        "currency": "USD",
+        "source": "Epic Games Store"
+      }
+    },
+    "historyPoints": [
+      {
+        "at": "2025-03-13T16:42:42.000Z",
+        "steam": 69.99,
+        "epic": null
+      },
+      {
+        "at": "2025-03-25T17:16:12.000Z",
+        "steam": 10.49,
+        "epic": null
+      },
+      {
+        "at": "2026-02-26T16:37:03.836Z",
+        "steam": 69.99,
+        "epic": 69.99
+      }
+    ],
+    "history": [
+      {
+        "month": "2025-03",
+        "steam": 10.49,
+        "epic": null
+      },
+      {
+        "month": "2025-04",
+        "steam": 10.49,
+        "epic": null
+      },
+      {
+        "month": "2025-05",
+        "steam": 10.49,
+        "epic": null
+      },
+      {
+        "month": "2025-06",
+        "steam": 10.49,
+        "epic": null
+      },
+      {
+        "month": "2025-07",
+        "steam": 10.49,
+        "epic": null
+      },
+      {
+        "month": "2025-08",
+        "steam": 10.49,
+        "epic": null
+      },
+      {
+        "month": "2025-09",
+        "steam": 10.49,
+        "epic": null
+      },
+      {
+        "month": "2025-10",
+        "steam": 10.49,
+        "epic": null
+      },
+      {
+        "month": "2025-11",
+        "steam": 10.49,
+        "epic": null
+      },
+      {
+        "month": "2025-12",
+        "steam": 10.49,
+        "epic": null
+      },
+      {
+        "month": "2026-01",
+        "steam": 10.49,
+        "epic": null
+      },
+      {
+        "month": "2026-02",
+        "steam": 69.99,
+        "epic": 69.99
+      }
+    ],
+    "dataSource": "isthereanydeal-site-history",
+    "match": {
+      "gid": "018deb4c-a481-73d4-90b2-a6932b6afa90",
+      "slug": "f1-24",
+      "title": "F1® 24",
+      "via": "slug"
+    }
+  },
+  "mario-kart-8-deluxe": {
+    "title": "Mario Kart 8 Deluxe",
+    "updatedAt": "2026-02-26 16:37:03 UTC",
+    "freeExternal": false,
+    "stores": {
+      "steam": {
+        "available": false,
+        "free": false,
+        "current": null,
+        "normal": null,
+        "currency": "USD",
+        "source": "Steam"
+      },
+      "epic": {
+        "available": false,
+        "free": false,
+        "current": null,
+        "normal": null,
+        "currency": "USD",
+        "source": "Epic Games Store"
+      }
+    },
+    "historyPoints": [],
+    "history": [
+      {
+        "month": "2025-03",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2025-04",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2025-05",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2025-06",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2025-07",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2025-08",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2025-09",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2025-10",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2025-11",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2025-12",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2026-01",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2026-02",
+        "steam": null,
+        "epic": null
+      }
+    ],
+    "dataSource": "isthereanydeal-site-history",
+    "match": {
+      "gid": "018d937f-0fc1-72c7-b14d-61309474e1e5",
+      "slug": "mario-kart-8-deluxe",
+      "title": "Mario Kart™ 8 Deluxe",
+      "via": "slug"
+    }
+  },
+  "cod-mw3": {
+    "title": "Call of Duty: Modern Warfare III",
+    "updatedAt": "2026-02-26 16:37:03 UTC",
+    "freeExternal": false,
+    "stores": {
+      "steam": {
+        "available": true,
+        "free": false,
+        "current": 69.99,
+        "normal": 69.99,
+        "currency": "USD",
+        "source": "Steam"
+      },
+      "epic": {
+        "available": false,
+        "free": false,
+        "current": null,
+        "normal": null,
+        "currency": "USD",
+        "source": "Epic Games Store"
+      }
+    },
+    "historyPoints": [
+      {
+        "at": "2025-02-26T00:00:00.000Z",
+        "steam": 69.99,
+        "epic": null
+      },
+      {
+        "at": "2025-03-20T17:24:33.000Z",
+        "steam": 34.99,
+        "epic": null
+      },
+      {
+        "at": "2025-04-03T18:29:49.000Z",
+        "steam": 69.99,
+        "epic": null
+      },
+      {
+        "at": "2025-04-14T17:21:55.000Z",
+        "steam": 34.99,
+        "epic": null
+      },
+      {
+        "at": "2025-05-15T19:14:51.000Z",
+        "steam": 69.99,
+        "epic": null
+      },
+      {
+        "at": "2025-05-29T17:19:11.000Z",
+        "steam": 34.99,
+        "epic": null
+      },
+      {
+        "at": "2025-06-24T10:59:28.000Z",
+        "steam": 69.99,
+        "epic": null
+      },
+      {
+        "at": "2025-07-01T18:33:15.000Z",
+        "steam": 34.99,
+        "epic": null
+      },
+      {
+        "at": "2025-07-29T16:18:21.000Z",
+        "steam": 69.99,
+        "epic": null
+      },
+      {
+        "at": "2025-08-01T11:25:44.000Z",
+        "steam": 0,
+        "epic": null
+      },
+      {
+        "at": "2025-08-14T18:04:16.000Z",
+        "steam": 34.99,
+        "epic": null
+      },
+      {
+        "at": "2025-09-23T11:01:07.000Z",
+        "steam": 69.99,
+        "epic": null
+      },
+      {
+        "at": "2025-09-29T17:35:44.000Z",
+        "steam": 34.99,
+        "epic": null
+      },
+      {
+        "at": "2025-11-19T18:15:57.000Z",
+        "steam": 69.99,
+        "epic": null
+      },
+      {
+        "at": "2025-11-19T18:16:51.000Z",
+        "steam": 34.99,
+        "epic": null
+      },
+      {
+        "at": "2025-12-17T21:00:41.000Z",
+        "steam": 69.99,
+        "epic": null
+      },
+      {
+        "at": "2025-12-27T10:30:19.000Z",
+        "steam": 34.99,
+        "epic": null
+      },
+      {
+        "at": "2026-02-05T18:49:45.000Z",
+        "steam": 69.99,
+        "epic": null
+      },
+      {
+        "at": "2026-02-19T18:14:59.000Z",
+        "steam": 27.99,
+        "epic": null
+      },
+      {
+        "at": "2026-02-26T16:37:03.836Z",
+        "steam": 69.99,
+        "epic": null
+      }
+    ],
+    "history": [
+      {
+        "month": "2025-03",
+        "steam": 34.99,
+        "epic": null
+      },
+      {
+        "month": "2025-04",
+        "steam": 34.99,
+        "epic": null
+      },
+      {
+        "month": "2025-05",
+        "steam": 34.99,
+        "epic": null
+      },
+      {
+        "month": "2025-06",
+        "steam": 69.99,
+        "epic": null
+      },
+      {
+        "month": "2025-07",
+        "steam": 69.99,
+        "epic": null
+      },
+      {
+        "month": "2025-08",
+        "steam": 34.99,
+        "epic": null
+      },
+      {
+        "month": "2025-09",
+        "steam": 34.99,
+        "epic": null
+      },
+      {
+        "month": "2025-10",
+        "steam": 34.99,
+        "epic": null
+      },
+      {
+        "month": "2025-11",
+        "steam": 34.99,
+        "epic": null
+      },
+      {
+        "month": "2025-12",
+        "steam": 34.99,
+        "epic": null
+      },
+      {
+        "month": "2026-01",
+        "steam": 34.99,
+        "epic": null
+      },
+      {
+        "month": "2026-02",
+        "steam": 69.99,
+        "epic": null
+      }
+    ],
+    "dataSource": "isthereanydeal-site-history",
+    "match": {
+      "gid": "018d9591-1da8-70cc-8fb1-899276510af2",
+      "slug": "call-of-duty-modern-warfare-iii",
+      "title": "Call of Duty®: Modern Warfare® III",
+      "via": "slug"
+    }
+  },
+  "god-of-war-ragnarok": {
+    "title": "God of War Ragnarök",
+    "updatedAt": "2026-02-26 16:37:03 UTC",
+    "freeExternal": false,
+    "stores": {
+      "steam": {
+        "available": true,
+        "free": false,
+        "current": 59.99,
+        "normal": 59.99,
+        "currency": "USD",
+        "source": "Steam"
+      },
+      "epic": {
+        "available": true,
+        "free": false,
+        "current": 59.99,
+        "normal": 59.99,
+        "currency": "USD",
+        "source": "Epic Games Store"
+      }
+    },
+    "historyPoints": [
+      {
+        "at": "2025-03-13T10:56:43.000Z",
+        "steam": 59.99,
+        "epic": null
+      },
+      {
+        "at": "2025-03-19T21:56:21.000Z",
+        "steam": 47.99,
+        "epic": null
+      },
+      {
+        "at": "2025-03-21T15:45:50.000Z",
+        "steam": 47.99,
+        "epic": 59.99
+      },
+      {
+        "at": "2025-03-26T16:01:00.000Z",
+        "steam": 47.99,
+        "epic": 47.99
+      },
+      {
+        "at": "2025-04-06T02:53:10.000Z",
+        "steam": 47.99,
+        "epic": 0
+      },
+      {
+        "at": "2025-04-08T23:15:55.000Z",
+        "steam": 47.99,
+        "epic": 47.99
+      },
+      {
+        "at": "2025-04-13T13:36:36.000Z",
+        "steam": 47.99,
+        "epic": 59.99
+      },
+      {
+        "at": "2025-05-15T15:48:26.000Z",
+        "steam": 47.99,
+        "epic": 47.99
+      },
+      {
+        "at": "2025-06-26T20:37:21.000Z",
+        "steam": 59.99,
+        "epic": 47.99
+      },
+      {
+        "at": "2025-07-10T18:06:16.000Z",
+        "steam": 47.99,
+        "epic": 47.99
+      },
+      {
+        "at": "2025-07-14T09:50:56.000Z",
+        "steam": 47.99,
+        "epic": 59.99
+      },
+      {
+        "at": "2025-07-25T00:40:51.000Z",
+        "steam": 47.99,
+        "epic": 47.99
+      },
+      {
+        "at": "2025-09-04T11:20:38.000Z",
+        "steam": 47.99,
+        "epic": 59.99
+      },
+      {
+        "at": "2025-09-17T21:51:47.000Z",
+        "steam": 47.99,
+        "epic": 47.99
+      },
+      {
+        "at": "2025-09-29T17:26:55.000Z",
+        "steam": 59.99,
+        "epic": 47.99
+      },
+      {
+        "at": "2025-10-06T17:57:34.000Z",
+        "steam": 47.99,
+        "epic": 47.99
+      },
+      {
+        "at": "2025-10-27T13:41:35.000Z",
+        "steam": 47.99,
+        "epic": 59.99
+      },
+      {
+        "at": "2025-11-04T18:16:49.000Z",
+        "steam": 47.99,
+        "epic": 47.99
+      },
+      {
+        "at": "2025-11-20T18:14:56.000Z",
+        "steam": 59.99,
+        "epic": 47.99
+      },
+      {
+        "at": "2025-12-02T18:17:48.000Z",
+        "steam": 47.99,
+        "epic": 47.99
+      },
+      {
+        "at": "2025-12-04T10:57:01.000Z",
+        "steam": 47.99,
+        "epic": 59.99
+      },
+      {
+        "at": "2025-12-18T20:11:51.000Z",
+        "steam": 59.99,
+        "epic": 59.99
+      },
+      {
+        "at": "2026-01-05T19:31:10.000Z",
+        "steam": 40.19,
+        "epic": 59.99
+      },
+      {
+        "at": "2026-01-06T03:35:26.000Z",
+        "steam": 40.19,
+        "epic": 40.19
+      },
+      {
+        "at": "2026-02-09T10:51:40.000Z",
+        "steam": 40.19,
+        "epic": 59.99
+      },
+      {
+        "at": "2026-02-09T18:19:49.000Z",
+        "steam": 59.99,
+        "epic": 59.99
+      },
+      {
+        "at": "2026-02-23T16:34:27.000Z",
+        "steam": 59.99,
+        "epic": 40.19
+      },
+      {
+        "at": "2026-02-23T18:21:49.000Z",
+        "steam": 40.19,
+        "epic": 40.19
+      },
+      {
+        "at": "2026-02-26T16:37:03.836Z",
+        "steam": 59.99,
+        "epic": 59.99
+      }
+    ],
+    "history": [
+      {
+        "month": "2025-03",
+        "steam": 47.99,
+        "epic": 47.99
+      },
+      {
+        "month": "2025-04",
+        "steam": 47.99,
+        "epic": 59.99
+      },
+      {
+        "month": "2025-05",
+        "steam": 47.99,
+        "epic": 47.99
+      },
+      {
+        "month": "2025-06",
+        "steam": 59.99,
+        "epic": 47.99
+      },
+      {
+        "month": "2025-07",
+        "steam": 47.99,
+        "epic": 47.99
+      },
+      {
+        "month": "2025-08",
+        "steam": 47.99,
+        "epic": 47.99
+      },
+      {
+        "month": "2025-09",
+        "steam": 59.99,
+        "epic": 47.99
+      },
+      {
+        "month": "2025-10",
+        "steam": 47.99,
+        "epic": 59.99
+      },
+      {
+        "month": "2025-11",
+        "steam": 59.99,
+        "epic": 47.99
+      },
+      {
+        "month": "2025-12",
+        "steam": 59.99,
+        "epic": 59.99
+      },
+      {
+        "month": "2026-01",
+        "steam": 40.19,
+        "epic": 40.19
+      },
+      {
+        "month": "2026-02",
+        "steam": 59.99,
+        "epic": 59.99
+      }
+    ],
+    "dataSource": "isthereanydeal-site-history",
+    "match": {
+      "gid": "018d937f-6bca-706d-9e69-8316170c379b",
+      "slug": "god-of-war-ragnarok",
+      "title": "God of War Ragnarök",
+      "via": "slug"
+    }
+  },
+  "spider-man-2": {
+    "title": "Marvel's Spider-Man 2",
+    "updatedAt": "2026-02-26 16:37:03 UTC",
+    "freeExternal": false,
+    "stores": {
+      "steam": {
+        "available": true,
+        "free": false,
+        "current": 59.99,
+        "normal": 59.99,
+        "currency": "USD",
+        "source": "Steam"
+      },
+      "epic": {
+        "available": true,
+        "free": false,
+        "current": 59.99,
+        "normal": 59.99,
+        "currency": "USD",
+        "source": "Epic Games Store"
+      }
+    },
+    "historyPoints": [
+      {
+        "at": "2025-06-26T20:32:36.000Z",
+        "steam": 0,
+        "epic": null
+      },
+      {
+        "at": "2025-07-10T18:05:42.000Z",
+        "steam": 47.99,
+        "epic": null
+      },
+      {
+        "at": "2025-07-16T04:50:30.000Z",
+        "steam": 47.99,
+        "epic": 59.99
+      },
+      {
+        "at": "2025-07-19T13:40:59.000Z",
+        "steam": 47.99,
+        "epic": 47.99
+      },
+      {
+        "at": "2025-08-04T14:21:27.000Z",
+        "steam": 47.99,
+        "epic": 59.99
+      },
+      {
+        "at": "2025-08-17T07:23:50.000Z",
+        "steam": 47.99,
+        "epic": 0
+      },
+      {
+        "at": "2025-08-21T10:02:43.000Z",
+        "steam": 47.99,
+        "epic": 59.99
+      },
+      {
+        "at": "2025-09-17T21:51:42.000Z",
+        "steam": 47.99,
+        "epic": 47.99
+      },
+      {
+        "at": "2025-09-25T17:16:49.000Z",
+        "steam": 59.99,
+        "epic": 47.99
+      },
+      {
+        "at": "2025-10-06T17:57:34.000Z",
+        "steam": 47.99,
+        "epic": 47.99
+      },
+      {
+        "at": "2025-11-02T00:36:55.000Z",
+        "steam": 47.99,
+        "epic": 59.99
+      },
+      {
+        "at": "2025-11-04T18:16:43.000Z",
+        "steam": 47.99,
+        "epic": 47.99
+      },
+      {
+        "at": "2025-11-20T18:14:56.000Z",
+        "steam": 59.99,
+        "epic": 47.99
+      },
+      {
+        "at": "2025-12-02T18:17:48.000Z",
+        "steam": 47.99,
+        "epic": 47.99
+      },
+      {
+        "at": "2025-12-04T10:57:01.000Z",
+        "steam": 47.99,
+        "epic": 59.99
+      },
+      {
+        "at": "2025-12-18T20:11:52.000Z",
+        "steam": 59.99,
+        "epic": 59.99
+      },
+      {
+        "at": "2025-12-19T10:43:13.000Z",
+        "steam": 59.99,
+        "epic": 47.99
+      },
+      {
+        "at": "2025-12-29T16:01:35.000Z",
+        "steam": 59.99,
+        "epic": 0
+      },
+      {
+        "at": "2026-01-05T18:55:12.000Z",
+        "steam": 47.99,
+        "epic": 0
+      },
+      {
+        "at": "2026-01-06T03:35:27.000Z",
+        "steam": 47.99,
+        "epic": 47.99
+      },
+      {
+        "at": "2026-02-09T09:55:30.000Z",
+        "steam": 47.99,
+        "epic": 59.99
+      },
+      {
+        "at": "2026-02-09T18:19:49.000Z",
+        "steam": 59.99,
+        "epic": 59.99
+      },
+      {
+        "at": "2026-02-23T16:34:21.000Z",
+        "steam": 59.99,
+        "epic": 47.99
+      },
+      {
+        "at": "2026-02-23T18:11:48.000Z",
+        "steam": 47.99,
+        "epic": 47.99
+      },
+      {
+        "at": "2026-02-26T16:37:03.836Z",
+        "steam": 59.99,
+        "epic": 59.99
+      }
+    ],
+    "history": [
+      {
+        "month": "2025-03",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2025-04",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2025-05",
+        "steam": null,
+        "epic": null
+      },
+      {
+        "month": "2025-06",
+        "steam": 0,
+        "epic": null
+      },
+      {
+        "month": "2025-07",
+        "steam": 47.99,
+        "epic": 47.99
+      },
+      {
+        "month": "2025-08",
+        "steam": 47.99,
+        "epic": 59.99
+      },
+      {
+        "month": "2025-09",
+        "steam": 59.99,
+        "epic": 47.99
+      },
+      {
+        "month": "2025-10",
+        "steam": 47.99,
+        "epic": 47.99
+      },
+      {
+        "month": "2025-11",
+        "steam": 59.99,
+        "epic": 47.99
+      },
+      {
+        "month": "2025-12",
+        "steam": 59.99,
+        "epic": 0
+      },
+      {
+        "month": "2026-01",
+        "steam": 47.99,
+        "epic": 47.99
+      },
+      {
+        "month": "2026-02",
+        "steam": 59.99,
+        "epic": 59.99
+      }
+    ],
+    "dataSource": "isthereanydeal-site-history",
+    "match": {
+      "gid": "018d937f-7871-736b-991b-3dc2794ac099",
+      "slug": "marvels-spider-man-2",
+      "title": "Marvel's Spider-Man 2",
+      "via": "slug"
+    }
+  },
+  "assassins-creed-mirage": {
+    "title": "Assassin's Creed Mirage",
+    "updatedAt": "2026-02-26 16:37:03 UTC",
+    "freeExternal": false,
+    "stores": {
+      "steam": {
+        "available": true,
+        "free": false,
+        "current": 49.99,
+        "normal": 49.99,
+        "currency": "USD",
+        "source": "Steam"
+      },
+      "epic": {
+        "available": true,
+        "free": false,
+        "current": 49.99,
+        "normal": 49.99,
+        "currency": "USD",
+        "source": "Epic Games Store"
+      }
+    },
+    "historyPoints": [
+      {
+        "at": "2025-02-26T00:00:00.000Z",
+        "steam": 49.99,
+        "epic": null
+      },
+      {
+        "at": "2025-03-18T13:20:07.000Z",
+        "steam": 19.99,
+        "epic": null
+      },
+      {
+        "at": "2025-03-20T18:13:46.000Z",
+        "steam": 19.99,
+        "epic": 49.99
+      },
+      {
+        "at": "2025-04-09T07:15:38.000Z",
+        "steam": 19.99,
+        "epic": 19.99
+      },
+      {
+        "at": "2025-04-09T15:02:39.000Z",
+        "steam": 49.99,
+        "epic": 19.99
+      },
+      {
+        "at": "2025-04-29T10:20:14.000Z",
+        "steam": 19.99,
+        "epic": 19.99
+      },
+      {
+        "at": "2025-05-04T17:33:44.000Z",
+        "steam": 19.99,
+        "epic": 49.99
+      },
+      {
+        "at": "2025-06-03T13:16:04.000Z",
+        "steam": 19.99,
+        "epic": 19.99
+      },
+      {
+        "at": "2025-06-17T10:10:51.000Z",
+        "steam": 49.99,
+        "epic": 19.99
+      },
+      {
+        "at": "2025-07-03T13:10:06.000Z",
+        "steam": 19.99,
+        "epic": 19.99
+      },
+      {
+        "at": "2025-07-10T18:20:24.000Z",
+        "steam": 49.99,
+        "epic": 19.99
+      },
+      {
+        "at": "2025-07-13T17:18:32.000Z",
+        "steam": 49.99,
+        "epic": 49.99
+      },
+      {
+        "at": "2025-07-17T15:19:58.000Z",
+        "steam": 19.99,
+        "epic": 49.99
+      },
+      {
+        "at": "2025-07-24T10:20:25.000Z",
+        "steam": 19.99,
+        "epic": 19.99
+      },
+      {
+        "at": "2025-08-07T17:45:55.000Z",
+        "steam": 49.99,
+        "epic": 19.99
+      },
+      {
+        "at": "2025-08-19T17:18:56.000Z",
+        "steam": 14.99,
+        "epic": 19.99
+      },
+      {
+        "at": "2025-08-28T10:20:28.000Z",
+        "steam": 14.99,
+        "epic": 49.99
+      },
+      {
+        "at": "2025-09-11T13:10:10.000Z",
+        "steam": 14.99,
+        "epic": 14.99
+      },
+      {
+        "at": "2025-09-18T15:32:54.000Z",
+        "steam": 49.99,
+        "epic": 14.99
+      },
+      {
+        "at": "2025-10-02T10:20:51.000Z",
+        "steam": 14.99,
+        "epic": 14.99
+      },
+      {
+        "at": "2025-10-16T10:05:21.000Z",
+        "steam": 14.99,
+        "epic": 49.99
+      },
+      {
+        "at": "2025-10-21T16:11:11.000Z",
+        "steam": 14.99,
+        "epic": 19.99
+      },
+      {
+        "at": "2025-11-01T21:06:38.000Z",
+        "steam": 14.99,
+        "epic": 49.99
+      },
+      {
+        "at": "2025-11-01T22:47:03.000Z",
+        "steam": 14.99,
+        "epic": 0
+      },
+      {
+        "at": "2025-11-02T00:37:18.000Z",
+        "steam": 49.99,
+        "epic": 0
+      },
+      {
+        "at": "2025-11-02T18:18:25.000Z",
+        "steam": 19.99,
+        "epic": 0
+      },
+      {
+        "at": "2025-12-04T10:36:02.000Z",
+        "steam": 19.99,
+        "epic": 49.99
+      },
+      {
+        "at": "2025-12-11T16:53:54.000Z",
+        "steam": 49.99,
+        "epic": 49.99
+      },
+      {
+        "at": "2025-12-18T20:29:51.000Z",
+        "steam": 49.99,
+        "epic": 14.99
+      },
+      {
+        "at": "2026-01-01T17:01:32.000Z",
+        "steam": 49.99,
+        "epic": 0
+      },
+      {
+        "at": "2026-01-01T18:06:23.000Z",
+        "steam": 14.99,
+        "epic": 0
+      },
+      {
+        "at": "2026-01-08T10:45:45.000Z",
+        "steam": 14.99,
+        "epic": 14.99
+      },
+      {
+        "at": "2026-01-08T16:41:58.000Z",
+        "steam": 49.99,
+        "epic": 14.99
+      },
+      {
+        "at": "2026-01-20T10:05:15.000Z",
+        "steam": 19.99,
+        "epic": 14.99
+      },
+      {
+        "at": "2026-01-30T16:51:00.000Z",
+        "steam": 19.99,
+        "epic": 49.99
+      },
+      {
+        "at": "2026-02-12T13:55:40.000Z",
+        "steam": 19.99,
+        "epic": 19.99
+      },
+      {
+        "at": "2026-02-26T16:37:03.836Z",
+        "steam": 49.99,
+        "epic": 49.99
+      }
+    ],
+    "history": [
+      {
+        "month": "2025-03",
+        "steam": 19.99,
+        "epic": 49.99
+      },
+      {
+        "month": "2025-04",
+        "steam": 19.99,
+        "epic": 19.99
+      },
+      {
+        "month": "2025-05",
+        "steam": 19.99,
+        "epic": 49.99
+      },
+      {
+        "month": "2025-06",
+        "steam": 49.99,
+        "epic": 19.99
+      },
+      {
+        "month": "2025-07",
+        "steam": 19.99,
+        "epic": 19.99
+      },
+      {
+        "month": "2025-08",
+        "steam": 14.99,
+        "epic": 49.99
+      },
+      {
+        "month": "2025-09",
+        "steam": 49.99,
+        "epic": 14.99
+      },
+      {
+        "month": "2025-10",
+        "steam": 14.99,
+        "epic": 19.99
+      },
+      {
+        "month": "2025-11",
+        "steam": 19.99,
+        "epic": 0
+      },
+      {
+        "month": "2025-12",
+        "steam": 49.99,
+        "epic": 14.99
+      },
+      {
+        "month": "2026-01",
+        "steam": 19.99,
+        "epic": 49.99
+      },
+      {
+        "month": "2026-02",
+        "steam": 49.99,
+        "epic": 49.99
+      }
+    ],
+    "dataSource": "isthereanydeal-site-history",
+    "match": {
+      "gid": "018d937f-64af-7039-82ae-70ef8087534d",
+      "slug": "assassins-creed-mirage",
+      "title": "Assassin's Creed Mirage",
+      "via": "slug"
+    }
+  },
+  "starfield": {
+    "title": "Starfield",
+    "updatedAt": "2026-02-26 16:37:03 UTC",
+    "freeExternal": false,
+    "stores": {
+      "steam": {
+        "available": true,
+        "free": false,
+        "current": 69.99,
+        "normal": 69.99,
+        "currency": "USD",
+        "source": "Steam"
+      },
+      "epic": {
+        "available": false,
+        "free": false,
+        "current": null,
+        "normal": null,
+        "currency": "USD",
+        "source": "Epic Games Store"
+      }
+    },
+    "historyPoints": [
+      {
+        "at": "2025-03-13T16:18:22.000Z",
+        "steam": 69.99,
+        "epic": null
+      },
+      {
+        "at": "2025-03-13T18:14:51.000Z",
+        "steam": 41.99,
+        "epic": null
+      },
+      {
+        "at": "2025-06-26T11:04:44.000Z",
+        "steam": 69.99,
+        "epic": null
+      },
+      {
+        "at": "2025-06-26T21:53:13.000Z",
+        "steam": 41.99,
+        "epic": null
+      },
+      {
+        "at": "2025-07-30T01:20:46.000Z",
+        "steam": 69.99,
+        "epic": null
+      },
+      {
+        "at": "2025-07-30T17:18:21.000Z",
+        "steam": 41.99,
+        "epic": null
+      },
+      {
+        "at": "2025-09-29T08:31:23.000Z",
+        "steam": 69.99,
+        "epic": null
+      },
+      {
+        "at": "2025-10-06T17:55:46.000Z",
+        "steam": 41.99,
+        "epic": null
+      },
+      {
+        "at": "2025-11-24T18:22:50.000Z",
+        "steam": 69.99,
+        "epic": null
+      },
+      {
+        "at": "2025-12-02T16:16:11.000Z",
+        "steam": 41.99,
+        "epic": null
+      },
+      {
+        "at": "2025-12-18T19:00:39.000Z",
+        "steam": 69.99,
+        "epic": null
+      },
+      {
+        "at": "2026-01-05T18:36:16.000Z",
+        "steam": 41.99,
+        "epic": null
+      },
+      {
+        "at": "2026-02-12T01:15:27.000Z",
+        "steam": 69.99,
+        "epic": null
+      },
+      {
+        "at": "2026-02-23T10:56:01.000Z",
+        "steam": 41.99,
+        "epic": null
+      },
+      {
+        "at": "2026-02-26T16:37:03.836Z",
+        "steam": 69.99,
+        "epic": null
+      }
+    ],
+    "history": [
+      {
+        "month": "2025-03",
+        "steam": 41.99,
+        "epic": null
+      },
+      {
+        "month": "2025-04",
+        "steam": 41.99,
+        "epic": null
+      },
+      {
+        "month": "2025-05",
+        "steam": 41.99,
+        "epic": null
+      },
+      {
+        "month": "2025-06",
+        "steam": 41.99,
+        "epic": null
+      },
+      {
+        "month": "2025-07",
+        "steam": 41.99,
+        "epic": null
+      },
+      {
+        "month": "2025-08",
+        "steam": 41.99,
+        "epic": null
+      },
+      {
+        "month": "2025-09",
+        "steam": 69.99,
+        "epic": null
+      },
+      {
+        "month": "2025-10",
+        "steam": 41.99,
+        "epic": null
+      },
+      {
+        "month": "2025-11",
+        "steam": 69.99,
+        "epic": null
+      },
+      {
+        "month": "2025-12",
+        "steam": 69.99,
+        "epic": null
+      },
+      {
+        "month": "2026-01",
+        "steam": 41.99,
+        "epic": null
+      },
+      {
+        "month": "2026-02",
+        "steam": 69.99,
+        "epic": null
+      }
+    ],
+    "dataSource": "isthereanydeal-site-history",
+    "match": {
+      "gid": "018d937f-6181-735a-af8a-95670cc81e27",
+      "slug": "starfield",
+      "title": "Starfield",
+      "via": "slug"
+    }
+  }
+};

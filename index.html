@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Alive | gaming interface</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- Loader -->
+<div id="loader">
+  <h1>Alive</h1>
+  <p id="loading-text">initializing interface...</p>
+</div>
+
+<!-- Particles -->
+<canvas id="particles"></canvas>
+
+<!-- Loadout Button -->
+<div class="loadout-btn" id="loadoutBtn">&#x1F392;</div>
+
+<!-- RPG Inventory -->
+<div class="inventory" id="inventory">
+  <div class="inventory-panel">
+    <h2>inventory</h2>
+
+    <div class="inventory-grid">
+
+      <div class="slot common" data-name="open world hub" data-rarity="common">
+        <a href="#open-world" class="slot-link">
+          <span class="item-icon">&#x1F3AE;</span>
+          <span class="item-name">open world hub</span>
+        </a>
+      </div>
+
+      <div class="slot empty"></div>
+      <div class="slot empty"></div>
+      <div class="slot empty"></div>
+      <div class="slot empty"></div>
+      <div class="slot empty"></div>
+      <div class="slot empty"></div>
+      <div class="slot empty"></div>
+
+    </div>
+
+    <div class="tooltip" id="tooltip"></div>
+  </div>
+</div>
+
+<!-- Hero -->
+<section class="hero">
+  <h1>Alive</h1>
+  <p>open world &bull; rpg &bull; competitive precision</p>
+</section>
+
+<!-- Open World Section -->
+<section id="open-world" class="section">
+  <h2>open world</h2>
+  <div class="card-grid">
+    <a class="game-card mc" href="minecraft.html">
+      <img src="maxresdefault.jpg" alt="Minecraft environment">
+      <span class="card-tag">Creative Survival</span>
+      <h3>Minecraft</h3>
+      <p>shaders. survival. infinite creativity.</p>
+    </a>
+
+    <a class="game-card rdr2" href="rdr2.html">
+      <img src="327.jpg" alt="RDR2 landscape">
+      <span class="card-tag">Western Epic</span>
+      <h3>RDR2</h3>
+      <p>cinematic open world storytelling.</p>
+    </a>
+
+    <a class="game-card gow" href="god-of-war.html">
+      <img src="thumb-1920-1300934.jpg" alt="God of War world view">
+      <span class="card-tag">Mythic Combat</span>
+      <h3>God of War</h3>
+      <p>mythic combat. emotional depth.</p>
+    </a>
+
+    <a class="game-card valo" href="valorant.html">
+      <img src="wp6489872.webp" alt="Valorant character art">
+      <span class="card-tag">Ranked Tactical</span>
+      <h3>Valorant</h3>
+      <p>precision aim. tactical execution.</p>
+    </a>
+
+    <a class="game-card wwm" href="where-winds-meet.html">
+      <img src="WhatsApp Image 2026-02-24 at 8.52.38 PM.jpeg" alt="Where Winds Meet scene">
+      <span class="card-tag">Wuxia Open World</span>
+      <h3>Where Winds Meet</h3>
+      <p>martial arts open world with atmospheric exploration.</p>
+    </a>
+
+  </div>
+</section>
+
+<script src="index.js"></script>
+</body>
+</html>
+

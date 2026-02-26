@@ -1,0 +1,230 @@
+@import url("https://fonts.googleapis.com/css2?family=Exo+2:wght@400;500;600;700&family=Orbitron:wght@500;700;900&display=swap");
+
+:root {
+  --bg-1: #070912;
+  --bg-2: #11192a;
+  --bg-3: #1b1222;
+  --panel: rgba(13, 20, 36, 0.9);
+  --line: rgba(125, 180, 255, 0.35);
+  --text: #eef4ff;
+  --soft: #a7b8de;
+  --accent: #57f5ff;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  min-height: 100vh;
+  font-family: "Exo 2", sans-serif;
+  color: var(--text);
+  background:
+    radial-gradient(circle at 10% 5%, rgba(86, 120, 255, 0.18), transparent 45%),
+    radial-gradient(circle at 90% 12%, rgba(255, 138, 207, 0.15), transparent 40%),
+    linear-gradient(160deg, var(--bg-1), var(--bg-2) 55%, var(--bg-3));
+  line-height: 1.6;
+}
+
+.page-shell {
+  width: min(1100px, 92vw);
+  margin: 32px auto 56px;
+}
+
+.back-link {
+  display: inline-block;
+  margin-bottom: 16px;
+  text-decoration: none;
+  color: var(--accent);
+  border: 1px solid rgba(87, 245, 255, 0.36);
+  background: rgba(9, 13, 26, 0.7);
+  border-radius: 999px;
+  padding: 8px 14px;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.back-link:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 0 16px rgba(87, 245, 255, 0.25);
+}
+
+.hero-card {
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 18px;
+  overflow: hidden;
+  box-shadow: 0 20px 38px rgba(0, 0, 0, 0.45);
+  margin-bottom: 20px;
+}
+
+.hero-media {
+  width: 100%;
+  height: min(44vw, 390px);
+  object-fit: cover;
+  display: block;
+}
+
+.hero-copy {
+  padding: 18px 20px 20px;
+}
+
+.eyebrow {
+  font-family: "Orbitron", sans-serif;
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--accent);
+}
+
+h1 {
+  font-family: "Orbitron", sans-serif;
+  font-size: clamp(30px, 5vw, 46px);
+  letter-spacing: 0.06em;
+  margin: 4px 0 12px;
+}
+
+.type-badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.type-badges span {
+  background: rgba(9, 14, 27, 0.85);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  border-radius: 999px;
+  padding: 6px 12px;
+  font-size: 13px;
+  color: #dce8ff;
+}
+
+.content-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 14px;
+}
+
+.panel {
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  padding: 18px 18px 16px;
+}
+
+.panel h2 {
+  font-family: "Orbitron", sans-serif;
+  font-size: 18px;
+  letter-spacing: 0.06em;
+  margin-bottom: 10px;
+  color: var(--accent);
+  text-transform: uppercase;
+}
+
+.panel p {
+  color: var(--text);
+  margin-bottom: 10px;
+}
+
+.panel p:last-child {
+  margin-bottom: 0;
+}
+
+.panel ul {
+  margin-left: 20px;
+  color: var(--text);
+}
+
+.panel li {
+  margin-bottom: 8px;
+}
+
+.panel li:last-child {
+  margin-bottom: 0;
+}
+
+.store-links {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 10px;
+}
+
+.store-link {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  text-decoration: none;
+  color: var(--text);
+  font-weight: 600;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: 10px;
+  padding: 10px 12px;
+  background: rgba(8, 12, 24, 0.72);
+  transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+}
+
+.store-link:hover {
+  transform: translateY(-2px);
+  border-color: var(--accent);
+  box-shadow: 0 0 16px rgba(87, 245, 255, 0.25);
+}
+
+.facts-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
+  gap: 10px;
+}
+
+.fact {
+  border: 1px solid rgba(255, 255, 255, 0.14);
+  border-radius: 10px;
+  padding: 10px 12px;
+  background: rgba(8, 12, 24, 0.7);
+}
+
+.fact strong {
+  display: block;
+  font-size: 12px;
+  color: var(--soft);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  margin-bottom: 3px;
+}
+
+.fact span {
+  color: var(--text);
+  font-weight: 600;
+}
+
+.source a {
+  color: var(--accent);
+}
+
+.source p {
+  color: var(--soft);
+}
+
+.minecraft { --accent: #7dff8a; }
+.rdr2 { --accent: #ffad59; }
+.gow { --accent: #57f5ff; }
+.valorant { --accent: #4b7dff; }
+.wwm { --accent: #ff83d6; }
+
+@media (max-width: 700px) {
+  .page-shell {
+    width: min(1100px, 95vw);
+    margin-top: 16px;
+  }
+
+  .hero-copy {
+    padding: 14px;
+  }
+
+  .panel {
+    padding: 14px;
+  }
+}

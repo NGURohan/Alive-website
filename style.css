@@ -33,6 +33,18 @@ h3,
   font-family: "Orbitron", "Exo 2", sans-serif;
 }
 
+h1,
+h2,
+h3 {
+  text-wrap: balance;
+}
+
+p,
+.item-name,
+.tooltip {
+  text-wrap: pretty;
+}
+
 body {
   min-height: 100vh;
   background:
@@ -40,6 +52,11 @@ body {
     radial-gradient(circle at 86% 4%, rgba(255, 131, 214, 0.14), transparent 42%),
     linear-gradient(155deg, var(--bg-1), var(--bg-2) 55%, var(--bg-3));
   color: var(--text);
+  line-height: 1.5;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
   overflow-x: hidden;
 }
 
@@ -581,12 +598,25 @@ body::before {
 }
 
 @media (max-width: 820px) {
-  .hero p {
+  .hero h1 {
+    font-size: clamp(56px, 14vw, 104px);
     letter-spacing: 0.12em;
+  }
+
+  .hero p {
+    font-size: clamp(13px, 3.4vw, 17px);
+    letter-spacing: 0.12em;
+    line-height: 1.55;
   }
 
   .section {
     padding: 80px 6%;
+  }
+
+  .section h2 {
+    font-size: clamp(24px, 6vw, 34px);
+    letter-spacing: 0.07em;
+    line-height: 1.2;
   }
 
   .card-grid {
@@ -601,7 +631,141 @@ body::before {
     padding: 24px;
   }
 
+  .inventory-panel h2 {
+    margin-bottom: 20px;
+    letter-spacing: 0.1em;
+  }
+
   .inventory-grid {
     grid-template-columns: repeat(2, 100px);
+    gap: 16px;
+  }
+
+  .item-name {
+    font-size: 11px;
+    letter-spacing: 0.05em;
+    line-height: 1.25;
+  }
+
+  .game-card h3 {
+    font-size: 21px;
+    letter-spacing: 0.045em;
+    line-height: 1.25;
+  }
+
+  .game-card p {
+    font-size: 14px;
+    line-height: 1.58;
+  }
+
+  .card-tag {
+    letter-spacing: 0.09em;
+  }
+}
+
+@media (max-width: 600px) {
+  .hero {
+    min-height: 88vh;
+  }
+
+  .hero h1 {
+    letter-spacing: 0.09em;
+  }
+
+  .hero p {
+    letter-spacing: 0.06em;
+    max-width: 32ch;
+    text-align: center;
+  }
+
+  .section {
+    padding: 64px 5%;
+  }
+
+  .section h2 {
+    margin-bottom: 20px;
+  }
+
+  .card-grid {
+    grid-template-columns: 1fr;
+    gap: 18px;
+  }
+
+  .game-card img {
+    height: 178px;
+  }
+
+  .game-card h3 {
+    font-size: 20px;
+    margin: 14px 14px 8px;
+  }
+
+  .game-card p {
+    margin: 0 14px 16px;
+    font-size: 13.5px;
+  }
+
+  .inventory-panel {
+    width: min(95vw, 560px);
+    padding: 18px;
+  }
+
+  .inventory-panel h2 {
+    font-size: 22px;
+    letter-spacing: 0.08em;
+    margin-bottom: 16px;
+  }
+
+  .tooltip {
+    font-size: 12px;
+    padding: 7px 10px;
+  }
+}
+
+@media (max-width: 420px) {
+  .loadout-btn {
+    top: 12px;
+    left: 12px;
+    font-size: 26px;
+  }
+
+  .hero h1 {
+    font-size: clamp(42px, 17vw, 68px);
+    letter-spacing: 0.07em;
+  }
+
+  .hero p {
+    font-size: 12px;
+    letter-spacing: 0.04em;
+    max-width: 28ch;
+  }
+
+  .section h2 {
+    font-size: 22px;
+    letter-spacing: 0.045em;
+  }
+
+  .game-card h3 {
+    font-size: 18px;
+  }
+
+  .game-card p {
+    font-size: 13px;
+  }
+
+  .inventory-grid {
+    grid-template-columns: repeat(2, 94px);
+    gap: 12px;
+  }
+
+  .slot {
+    width: 94px;
+    height: 94px;
+  }
+
+  .item-icon {
+    width: 40px;
+    height: 40px;
+    font-size: 21px;
   }
 }

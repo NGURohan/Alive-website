@@ -1,16 +1,55 @@
 console.log("JS working");
 // Loader
+const loader = document.getElementById("loader");
 const loadingText = document.getElementById("loading-text");
-if (loadingText) {
-  setTimeout(() => loadingText.textContent = "loading assets...", 1200);
-  setTimeout(() => loadingText.textContent = "access granted.", 2400);
-  setTimeout(() => {
-    const loader = document.getElementById("loader");
-    if (loader) {
-      loader.style.opacity = "0";
-      setTimeout(() => loader.style.display = "none", 800);
+const loaderSeenKey = "alive_loader_seen";
+
+if (loader) {
+  const hideLoader = (durationMs = 800) => {
+    loader.style.opacity = "0";
+    setTimeout(() => {
+      loader.style.display = "none";
+    }, durationMs);
+  };
+
+  const setLoaderMessage = (message, delayMs) => {
+    if (!loadingText) return;
+
+    setTimeout(() => {
+      loadingText.style.opacity = "0";
+      setTimeout(() => {
+        loadingText.textContent = message;
+        loadingText.style.opacity = "1";
+      }, 180);
+    }, delayMs);
+  };
+
+  let hasSeenLoader = false;
+  try {
+    hasSeenLoader = sessionStorage.getItem(loaderSeenKey) === "1";
+  } catch (err) {
+    hasSeenLoader = false;
+  }
+
+  if (hasSeenLoader) {
+    loader.style.transition = "opacity 0.45s ease";
+    requestAnimationFrame(() => hideLoader(450));
+  } else {
+    try {
+      sessionStorage.setItem(loaderSeenKey, "1");
+    } catch (err) {
+      // ignore storage access failures
     }
-  }, 3500);
+
+    if (loadingText) {
+      loadingText.style.opacity = "1";
+      loadingText.style.transition = "opacity 0.35s ease";
+      setLoaderMessage("loading assets...", 1200);
+      setLoaderMessage("access granted.", 2400);
+    }
+
+    setTimeout(() => hideLoader(800), 3500);
+  }
 }
 
 // Inventory toggle

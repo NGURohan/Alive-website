@@ -213,6 +213,16 @@ h1 {
 .gow { --accent: #57f5ff; }
 .valorant { --accent: #4b7dff; }
 .wwm { --accent: #ff83d6; }
+.once-human { --accent: #ff607a; }
+.no-mans-sky { --accent: #68ffe4; }
+.asphalt-legends { --accent: #ffd166; }
+.cs2-page { --accent: #7ec8ff; }
+.forza-horizon-5 { --accent: #ff8f5a; }
+.gta-5 { --accent: #86ff9f; }
+.cyberpunk-2077 { --accent: #6effff; }
+.elden-ring { --accent: #f4d98b; }
+.ghost-of-tsushima { --accent: #ff7b7b; }
+.horizon-forbidden-west { --accent: #9ce5ff; }
 
 @media (max-width: 700px) {
   .page-shell {
